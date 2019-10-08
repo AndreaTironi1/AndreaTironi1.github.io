@@ -18,6 +18,8 @@
 
 ## Articoli scritti
 
+* 9 per [Agendadigitale.eu](https://www.agendadigitale.eu/?s=andrea+tironi]
+
 (agendadigitale da compilare)
 
 ## Conferenze seguite

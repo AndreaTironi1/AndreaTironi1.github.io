@@ -4,7 +4,7 @@
 
 * Andrea Tironi
 * Anno di nascita: 1977
-* Laurea In Informatica
+* Italiano, Lombardo, Bresciano
 
 ## Social
 

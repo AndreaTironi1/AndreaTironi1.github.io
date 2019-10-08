@@ -20,8 +20,6 @@
 
 * 9 per [Agendadigitale.eu](https://www.agendadigitale.eu/?s=andrea+tironi)
 
-(agendadigitale da compilare)
-
 ## Conferenze seguite
 * 2019 [NoHat](https://www.nohat.it/)
 * 2018 Google next

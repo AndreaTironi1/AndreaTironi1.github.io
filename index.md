@@ -23,7 +23,7 @@
 ## Conferenze seguite
 * 2019 [NoHat](https://www.nohat.it/)
 * 2018 Google next
-* 2017 Wired Next Fest]
+* 2017 Wired Next Fest
 * 2016 [HackInBo](https://hackinbo.it/)
 * 2015 [TedX Vicenza](https://www.tedxvicenza.com/)
 

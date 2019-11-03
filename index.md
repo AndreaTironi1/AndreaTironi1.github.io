@@ -21,7 +21,7 @@
 
 ## Articoli scritti
 
-* 9 per [Agendadigitale.eu](https://www.agendadigitale.eu/?s=andrea+tironi)
+* [Agendadigitale.eu](https://www.agendadigitale.eu/?s=andrea+tironi)
 
 ## Conferenze seguite
 * 2019 [NoHat](https://www.nohat.it/)

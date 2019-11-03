@@ -10,7 +10,7 @@
 
 * [Linkedin](https://www.linkedin.com/in/andrea-tironi-381b6a52/)
 * email: nome.cognome@gmail.com
-* cell: chiedi se ti serve
+* cell: da chiedere
 
 ## Docenze Effettuate
 * 2019/10/10 - [La transizione digitale della PA Locale e la gestione in forma associata dei sistemi e dei servizi ICT](https://github.com/AndreaTironi1/AndreaTironi1.github.io/blob/master/docenze/20191010_Risorse_e_Comuni_La_transizione_digitale_della_PA_Locale_e_la_gestione_in_forma_associata_dei_sistemi_e_dei_servizi_ICT.pdf), organizzato da Risorse e Comuni

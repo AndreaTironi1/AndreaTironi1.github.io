@@ -1,11 +1,5 @@
 # Work in progress
 
-## General Info
-
-* Andrea Tironi
-* Anno di nascita: 1977
-* Italiano, Lombardo, Bresciano
-
 ## Social
 
 * [Linkedin](https://www.linkedin.com/in/andrea-tironi-381b6a52/)

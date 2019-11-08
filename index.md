@@ -24,3 +24,8 @@
 * 2016 [HackInBo](https://hackinbo.it/)
 * 2015 [TedX Vicenza](https://www.tedxvicenza.com/)
 
+## Formazione
+* 2019: Lavorare in Digitale: lavorare con i "documenti informatici", Academy4PA CIT-Ancilab
+* 2019: Posta Elettronica e Sicurezza Informatica, Academy4PA CIT-Ancilab 
+
+

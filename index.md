@@ -16,7 +16,7 @@
 * 2019/07/02 - [Completiamo insieme il sistema operativo del Paese”](https://www.eventbrite.com/e/registrazione-completiamo-insieme-il-sistema-operativo-del-paese-61922841887), organizzato da Team Digitale
 
 ## Formazione
-* 2019/11/20 Dal nuovo Piano Triennale per l'informatica 2019-2021 ai Piano di sviluppo ICT delle singole amministrazioni tenuto da Ancilab (4 ore)
+* 2019/11/20 - Dal nuovo Piano Triennale per l'informatica 2019-2021 ai Piano di sviluppo ICT delle singole amministrazioni tenuto da Ancilab (4 ore)
 
 ## Articoli scritti
 

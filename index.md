@@ -11,6 +11,7 @@
 * 2019/09/29 - [ValorePA “Produzione, gestione e conservazione dei documenti digitali e/o digitalizzati”](https://github.com/AndreaTironi1/AndreaTironi1.github.io/blob/master/docenze/20190329_MIP_Programma_Produzione_gestione_conservazione_documenti_digitali_base_Milano.pdf), organizzato da Politecnico di Milano
 
 ## Interventi come relatore
+* 2019/11/27 - Community Call Team Digitale - https://lnkd.in/g9Jb47w
 * 2019/11/16 - Percorsi formativi post scuola superiore (per due classi ITIS Informatica dell'istituto G.Galilei di Crema) - Organizzato da ConsorzioIT
 * 2019/11/13 - Secondo Raduno dei Responsabili per la Transizione al Digitale - [La trasformazione digitale della PA per il cittadino: organizzazione e tecnologie](https://www.lapadigitale.it/programma-raduno-responsabili-per-la-transizione-al-digitale-2019/#1571161242339-3d0dbc18-a3ca) - Organizzato da Maggioli s.p.a. e Studio E-Lex
 * 2019/07/02 - [Completiamo insieme il sistema operativo del Paese”](https://www.eventbrite.com/e/registrazione-completiamo-insieme-il-sistema-operativo-del-paese-61922841887), organizzato da Team Digitale
@@ -28,7 +29,7 @@
 
 ## Formazione
 * 2019 - Dal nuovo Piano Triennale per l'informatica 2019-2021 ai Piani di sviluppo ICT delle PAL, Academy4PA CIT-Ancilab(4h)
-* 2019: Lavorare in Digitale: lavorare con i "documenti informatici", Academy4PA CIT-Ancilab (4h)
+* 2019 - Lavorare in Digitale: lavorare con i "documenti informatici", Academy4PA CIT-Ancilab (4h)
 * 2019: Posta Elettronica e Sicurezza Informatica, Academy4PA CIT-Ancilab (8h)
 
 

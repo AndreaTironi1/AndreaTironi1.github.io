@@ -31,6 +31,6 @@
 * 2019 - La cittadinanza digitale e l'attuazione dei diritti dei cittadini e delle imprese, Academy4PA CIT-Ancilab (4h)
 * 2019 - Dal nuovo Piano Triennale per l'informatica 2019-2021 ai Piani di sviluppo ICT delle PAL, Academy4PA CIT-Ancilab(4h)
 * 2019 - Lavorare in Digitale: lavorare con i "documenti informatici", Academy4PA CIT-Ancilab (4h)
-* 2019: Posta Elettronica e Sicurezza Informatica, Academy4PA CIT-Ancilab (8h)
+* 2019 - Posta Elettronica e Sicurezza Informatica, Academy4PA CIT-Ancilab (8h)
 
 

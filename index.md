@@ -32,11 +32,6 @@
 
 ## Formazione 
 
-* 2019 - La cittadinanza digitale e l'attuazione dei diritti dei cittadini e delle imprese, Academy4PA CIT-Ancilab (4h)
-* 2019 - Dal nuovo Piano Triennale per l'informatica 2019-2021 ai Piani di sviluppo ICT delle PAL, Academy4PA CIT-Ancilab(4h)
-* 2019 - Lavorare in Digitale: lavorare con i "documenti informatici", Academy4PA CIT-Ancilab (4h)
-* 2019 - Posta Elettronica e Sicurezza Informatica, Academy4PA CIT-Ancilab (8h)
-
 ### Personale
 * (2016) Da zero a 10 Ekis (autofinanziato) (2gg)
 * (2015) L’intelligenza emotiva, strategie della mente  (Apindustria Cremona) (1gg)
@@ -90,6 +85,15 @@
 * (2010) Virtualization Live Tour (Citrix Xenapp,Wise Xenith, Stonegate Redundant Solution) (1gg)
 * (2009) One day Windows 7 presso Pipeline (1gg)
 
+## Trasformazione Digitale
+* 2019 - La cittadinanza digitale e l'attuazione dei diritti dei cittadini e delle imprese, Academy4PA CIT-Ancilab (4h)
+* 2019 - Dal nuovo Piano Triennale per l'informatica 2019-2021 ai Piani di sviluppo ICT delle PAL, Academy4PA CIT-Ancilab(4h)
+* 2019 - Lavorare in Digitale: lavorare con i "documenti informatici", Academy4PA CIT-Ancilab (4h)
+* 2019 - Posta Elettronica e Sicurezza Informatica, Academy4PA CIT-Ancilab (8h)
+
+## Associazioni
+
+* (2018-oggi) [CyberSayan](https://www.cybersaiyan.it/)
 
 ## Conferenze seguite
 * 2019 [NoHat](https://www.nohat.it/)

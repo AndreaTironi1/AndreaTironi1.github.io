@@ -27,6 +27,11 @@
 * 2016 [HackInBo](https://hackinbo.it/)
 * 2015 [TedX Vicenza](https://www.tedxvicenza.com/)
 
+## Presenze a programmi Televisivi
+
+* Inchiesta report sulla digitalizzazione nella Pubblica Amministrazione:[ Basterebbe un click ](https://www.raiplay.it/video/2019/12/-basterebbe-un-click---02122019-2c43e678-5649-4588-aa11-2d92efada242.html)
+* [Promo dell'inchiesta sulla digitalizzazione nella Pubblica Amministrazione](https://www.facebook.com/ReportRai3/videos/2748293455259595/)
+
 ## Formazione
 * 2019 - La cittadinanza digitale e l'attuazione dei diritti dei cittadini e delle imprese, Academy4PA CIT-Ancilab (4h)
 * 2019 - Dal nuovo Piano Triennale per l'informatica 2019-2021 ai Piani di sviluppo ICT delle PAL, Academy4PA CIT-Ancilab(4h)

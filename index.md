@@ -18,12 +18,12 @@
 
 ## Co-Advisor Tesi
 
-* [Data analytics for vehicular traffic networks - Matteo Gandossi - UNIMI](https://github.com/AndreaTironi1/AndreaTironi1.github.io/blob/master/tesi/2019_Data%20analytics%20for%20vehicular%20traffic%20networks_Coadvisor.pdf) 
+* (2019) [Data analytics for vehicular traffic networks - Matteo Gandossi - UNIMI](https://github.com/AndreaTironi1/AndreaTironi1.github.io/blob/master/tesi/2019_Data%20analytics%20for%20vehicular%20traffic%20networks_Coadvisor.pdf) 
 
 ## Articoli su testate digitali
 
-* [Agendadigitale](https://www.agendadigitale.eu/?s=andrea+tironi)
-* [Cybersecurity360](https://www.cybersecurity360.it/?s=andrea+tironi)
+* (2019-oggi) [Agendadigitale](https://www.agendadigitale.eu/?s=andrea+tironi)
+* (2019-oggi)[Cybersecurity360](https://www.cybersecurity360.it/?s=andrea+tironi)
 
 ## Apparizioni in programmi televisivi
 

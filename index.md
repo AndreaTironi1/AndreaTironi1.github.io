@@ -27,7 +27,7 @@
 * 2016 [HackInBo](https://hackinbo.it/)
 * 2015 [TedX Vicenza](https://www.tedxvicenza.com/)
 
-## Presenze a programmi Televisivi
+## Altro
 
 * Inchiesta report sulla digitalizzazione nella Pubblica Amministrazione:[ Basterebbe un click ](https://www.raiplay.it/video/2019/12/-basterebbe-un-click---02122019-2c43e678-5649-4588-aa11-2d92efada242.html)
 * [Promo dell'inchiesta sulla digitalizzazione nella Pubblica Amministrazione](https://www.facebook.com/ReportRai3/videos/2748293455259595/)

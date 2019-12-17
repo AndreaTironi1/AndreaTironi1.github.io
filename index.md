@@ -56,7 +56,6 @@
 * (2019) Intro to DevOps (Udacity - self learning 2 ore)
 * (2019) G Suite Deployment Services Specialist Exam (Coursera - self learning 2 ore)
 * (2019) Google Cloud Sales Fundamentals - Assessment (2 ore) (Coursera - self learning 2 ore)
-* (2019) Project Management - (Infor - Value Group) (2gg)
 * (2019) Introduction to IOT 2.0 - (Cisco - Netacad - self learning 10 ore)
 * (2019) CyberSecurity Essentials 1.1 (Cisco - Netacad - self learning 20 ore)
 * (2019) Corso completo sugli Amazon Web Services (AWS), Udemy (autofinanziato - 15 ore)

@@ -16,10 +16,9 @@
 * 2019/11/13 - Secondo Raduno dei Responsabili per la Transizione al Digitale - [La trasformazione digitale della PA per il cittadino: organizzazione e tecnologie](https://www.lapadigitale.it/programma-raduno-responsabili-per-la-transizione-al-digitale-2019/#1571161242339-3d0dbc18-a3ca) - Organizzato da Maggioli s.p.a. e Studio E-Lex
 * 2019/07/02 - [Completiamo insieme il sistema operativo del Paese”](https://www.eventbrite.com/e/registrazione-completiamo-insieme-il-sistema-operativo-del-paese-61922841887), organizzato da Team Digitale
 
-## Tesi supportate
+## Co-Advisor Tesi
 
-* supporto esterno
-* co-advisoring 
+* [Data analytics for vehicular traffic networks - Matteo Gandossi - UNIMI] (https://github.com/AndreaTironi1/AndreaTironi1.github.io/blob/master/tesi/2019_Data%20analytics%20for%20vehicular%20traffic%20networks_Coadvisor.pdfco-advisoring) 
 
 ## Articoli scritti
 

@@ -16,20 +16,18 @@
 * 2019/11/13 - Secondo Raduno dei Responsabili per la Transizione al Digitale - [La trasformazione digitale della PA per il cittadino: organizzazione e tecnologie](https://www.lapadigitale.it/programma-raduno-responsabili-per-la-transizione-al-digitale-2019/#1571161242339-3d0dbc18-a3ca) - Organizzato da Maggioli s.p.a. e Studio E-Lex
 * 2019/07/02 - [Completiamo insieme il sistema operativo del Paese”](https://www.eventbrite.com/e/registrazione-completiamo-insieme-il-sistema-operativo-del-paese-61922841887), organizzato da Team Digitale
 
+## Tesi supportate
+
+* supporto esterno
+* co-advisoring 
+
 ## Articoli scritti
 
 * [Agendadigitale.eu](https://www.agendadigitale.eu/?s=andrea+tironi)
 
-## Conferenze seguite
-* 2019 [NoHat](https://www.nohat.it/)
-* 2018 Google next
-* 2017 Wired Next Fest
-* 2016 [HackInBo](https://hackinbo.it/)
-* 2015 [TedX Vicenza](https://www.tedxvicenza.com/)
+## Apparizioni in programmi televisivi
 
-## Altro
-
-* Inchiesta report sulla digitalizzazione nella Pubblica Amministrazione:[ Basterebbe un click ](https://www.raiplay.it/video/2019/12/-basterebbe-un-click---02122019-2c43e678-5649-4588-aa11-2d92efada242.html)
+* Inchiesta report sulla digitalizzazione nella Pubblica Amministrazione:[Basterebbe un click](https://www.raiplay.it/video/2019/12/-basterebbe-un-click---02122019-2c43e678-5649-4588-aa11-2d92efada242.html)
 * [Promo dell'inchiesta sulla digitalizzazione nella Pubblica Amministrazione](https://www.facebook.com/ReportRai3/videos/2748293455259595/)
 
 ## Formazione
@@ -38,4 +36,10 @@
 * 2019 - Lavorare in Digitale: lavorare con i "documenti informatici", Academy4PA CIT-Ancilab (4h)
 * 2019 - Posta Elettronica e Sicurezza Informatica, Academy4PA CIT-Ancilab (8h)
 
+## Conferenze seguite
+* 2019 [NoHat](https://www.nohat.it/)
+* 2018 Google next
+* 2017 Wired Next Fest
+* 2016 [HackInBo](https://hackinbo.it/)
+* 2015 [TedX Vicenza](https://www.tedxvicenza.com/)
 

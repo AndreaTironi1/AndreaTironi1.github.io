@@ -18,7 +18,7 @@
 
 ## Co-Advisor Tesi
 
-* [Data analytics for vehicular traffic networks - Matteo Gandossi - UNIMI] (https://github.com/AndreaTironi1/AndreaTironi1.github.io/blob/master/tesi/2019_Data%20analytics%20for%20vehicular%20traffic%20networks_Coadvisor.pdfco-advisoring) 
+* [Data analytics for vehicular traffic networks - Matteo Gandossi - UNIMI](https://github.com/AndreaTironi1/AndreaTironi1.github.io/blob/master/tesi/2019_Data%20analytics%20for%20vehicular%20traffic%20networks_Coadvisor.pdfco-advisoring) 
 
 ## Articoli scritti
 

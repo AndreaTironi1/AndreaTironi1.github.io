@@ -24,6 +24,7 @@
 ## Articoli scritti
 
 * [Agendadigitale.eu](https://www.agendadigitale.eu/?s=andrea+tironi)
+* [Cybersecurity360](https://www.cybersecurity360.it/?s=andrea+tironi)
 
 ## Apparizioni in programmi televisivi
 

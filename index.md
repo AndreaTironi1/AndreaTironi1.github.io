@@ -23,7 +23,7 @@
 ## Articoli su testate digitali
 
 * (2019-oggi) [Agendadigitale](https://www.agendadigitale.eu/?s=andrea+tironi)
-* (2019-oggi)[Cybersecurity360](https://www.cybersecurity360.it/?s=andrea+tironi)
+* (2019-oggi) [Cybersecurity360](https://www.cybersecurity360.it/?s=andrea+tironi)
 
 ## Apparizioni in programmi televisivi
 

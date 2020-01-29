@@ -32,7 +32,7 @@
 
 ## Formazione 
 
-* (2020) www.elementsofai.com : Corso online per cittadini digitali realizzato dal governo Finlandese.
+* (2020) www.elementsofai.com : Corso online per cittadini digitali realizzato dal governo Finlandese. [certificato](https://github.com/AndreaTironi1/AndreaTironi1.github.io/blob/master/formazione/certificate-elements-of-ai.png)
 
 ### Personale
 * (2016) Da zero a 10 Ekis (autofinanziato) (2gg)

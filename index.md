@@ -24,6 +24,7 @@
 
 * (2019-oggi) [Agendadigitale](https://www.agendadigitale.eu/?s=andrea+tironi)
 * (2019-oggi) [Cybersecurity360](https://www.cybersecurity360.it/?s=andrea+tironi)
+* (2020-oggi) [BigData4Innovation](https://www.bigdata4innovation.it/)
 
 ## Apparizioni in programmi televisivi
 

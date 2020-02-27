@@ -42,6 +42,7 @@
 * (2015) FLY (Find the leader in You) presso Hrd Academy (autofinanziato) (1 anno)
 
 ### Gestionale 
+* (2020) Agile Project Management - (Infor - Value Group) (1gg)
 * (2019) Project Management - (Infor - Value Group) (2gg)
 * (2019) Come creare e gestire i budget di progetto  (Infor - Value Group) (1gg)
 * (2018) Bilancio per non addetti (Infor - Value Group) (1gg)

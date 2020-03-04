@@ -22,10 +22,12 @@
 
 ## Articoli su testate digitali
 
-* (2019-oggi) [Agendadigitale](https://www.agendadigitale.eu/?s=andrea+tironi)
-* (2019-oggi) [Cybersecurity360](https://www.cybersecurity360.it/?s=andrea+tironi)
-* (2020-oggi) [BigData4Innovation](https://www.bigdata4innovation.it/)
-* (2020-oggi) [AI4Business](https://www.ai4business.it/)
+* (2019-oggi) [Agendadigitale](https://www.agendadigitale.eu/?s=andrea+tironi) (oltre 30 articoli)
+* (2019-oggi) [Cybersecurity360](https://www.cybersecurity360.it/?s=andrea+tironi) (1 articolo)
+* (2020-oggi) [BigData4Innovation](https://www.bigdata4innovation.it/) (2 articoli)
+* (2020-oggi) [AI4Business](https://www.ai4business.it/)  (2 articoli)
+* (2020-oggi) [Retecomuni](https://www.retecomuni.it/) (1 articolo)
+* (2020-oggi) [Comuni Digitali](https://www.comuni digitali.it/) (1 articolo)
 
 ## Apparizioni in programmi televisivi
 

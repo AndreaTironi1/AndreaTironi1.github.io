@@ -27,7 +27,7 @@
 * (2020-oggi) [BigData4Innovation](https://www.bigdata4innovation.it/) (2 articoli)
 * (2020-oggi) [AI4Business](https://www.ai4business.it/)  (2 articoli)
 * (2020-oggi) [Retecomuni](https://www.retecomuni.it/) (2 articoli)
-* (2020-oggi) [Comuni Digitali](https://www.comunidigitali.it/) (1 articolo)
+* (2020-oggi) [Comuni Digitali](https://www.comunidigitali.it/) (2 articoli)
 
 ## Apparizioni in programmi televisivi
 

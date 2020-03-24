@@ -40,6 +40,7 @@
 ## Siti realizzati in collaborazione
 
 * www.covid19.it
+* www.moneyriskanalysis.com
 
 ## Formazione 
 

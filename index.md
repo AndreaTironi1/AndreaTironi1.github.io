@@ -39,8 +39,8 @@
 
 ## Siti realizzati in collaborazione
 
-* www.covid19.it
-* www.moneyriskanalysis.com
+* (2020) www.codiv19-italia.eu
+* (2014) www.moneyriskanalysis.com
 
 ## Formazione 
 

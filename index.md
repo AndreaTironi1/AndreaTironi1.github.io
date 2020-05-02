@@ -61,13 +61,14 @@
 * (2015) Strumenti Operativi per Team Leader (Apindustria Cremona) (1gg)
 
 ###  Tecnica
+* (2020) Introduzione alla stampa 3D e alla Manifattura Additiva (3DItaly Milano - autofinanziato 4 ore)
 * (2020) www.elementsofai.com : Corso online per cittadini digitali realizzato dal governo Finlandese. [certificato](https://github.com/AndreaTironi1/AndreaTironi1.github.io/blob/master/formazione/certificate-elements-of-ai.png)
 * (2019) Intro to DevOps (Udacity - self learning 2 ore)
 * (2019) G Suite Deployment Services Specialist Exam (Coursera - self learning 2 ore)
 * (2019) Google Cloud Sales Fundamentals - Assessment (2 ore) (Coursera - self learning 2 ore)
 * (2019) Introduction to IOT 2.0 - (Cisco - Netacad - self learning 10 ore)
 * (2019) CyberSecurity Essentials 1.1 (Cisco - Netacad - self learning 20 ore)
-* (2019) Corso completo sugli Amazon Web Services (AWS), Udemy (autofinanziato - 15 ore)
+* (2019) Corso completo sugli Amazon Web Services (AWS Udemy (autofinanziato - 15 ore)
 * (2018) Corso Formazione Fortigate - Corso pratico (Mead informatica) (3gg)
 * (2018) Introduction to Cybersecurity 2.1 (Cisco - Netacad)
 * (2017) Python Programming: A Concise Introduction (Wesleyan University - Coursera) 

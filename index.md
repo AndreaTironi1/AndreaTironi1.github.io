@@ -62,6 +62,7 @@
 * (2015) Strumenti Operativi per Team Leader (Apindustria Cremona) (1gg)
 
 ###  Tecnica
+* (2020) Attestato Pilota APR (operazioni non critiche) - (Enac) - (selfmade)
 * (2020) Introduzione alla stampa 3D e alla Manifattura Additiva (3DItaly Milano - autofinanziato 4 ore)
 * (2020) www.elementsofai.com : Corso online per cittadini digitali realizzato dal governo Finlandese. [certificato](https://github.com/AndreaTironi1/AndreaTironi1.github.io/blob/master/formazione/certificate-elements-of-ai.png)
 * (2019) Intro to DevOps (Udacity - self learning 2 ore)

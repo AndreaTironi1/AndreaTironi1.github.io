@@ -24,13 +24,13 @@
 
 ## Articoli su testate digitali
 
-* (2020-oggi) [BigData4Innovation](https://www.bigdata4innovation.it/) (2 articoli)
-* (2020-oggi) [AI4Business](https://www.ai4business.it/)  (2 articoli)
-* (2020-oggi) [Retecomuni](https://www.retecomuni.it/) (2 articoli)
-* (2020-oggi) [Comuni Digitali](https://www.comunidigitali.it/) (2 articoli)
-* (2020-oggi) [Strategie Amministrative](https://www.strategieamministrative.it) (1 articolo)
-* (2019-oggi) [Agendadigitale](https://www.agendadigitale.eu/?s=andrea+tironi) (oltre 30 articoli)
-* (2019-oggi) [Cybersecurity360](https://www.cybersecurity360.it/?s=andrea+tironi) (1 articolo)
+* (2020-oggi) [BigData4Innovation](https://www.bigdata4innovation.it/) 
+* (2020-oggi) [AI4Business](https://www.ai4business.it/)  
+* (2020-oggi) [Retecomuni](https://www.retecomuni.it/) 
+* (2020-oggi) [Comuni Digitali](https://www.comunidigitali.it/) 
+* (2020-oggi) [Strategie Amministrative](https://www.strategieamministrative.it) 
+* (2019-oggi) [Agendadigitale](https://www.agendadigitale.eu/?s=andrea+tironi) 
+* (2019-oggi) [Cybersecurity360](https://www.cybersecurity360.it/?s=andrea+tironi) 
 
 ## Apparizioni in programmi televisivi
 
@@ -58,7 +58,7 @@
 * (2018) Bilancio per non addetti (Infor - Value Group) (1gg)
 * (2018) Studio di Fattibilità (Infor - Value Group) (1gg)
 * (2018) Norme sulla trasformazione digitale della PA (avvocato Belisario  Ernesto) (2gg)
-* (2018) Master Breve - Responsabile della Transazione al Digitale (Maggioli) (6gg)
+* (2018) Master Breve - Responsabile della Transazione al Digitale (Maggioli - avvocato Belisario  Ernesto) (6gg)
 * (2016) Lancio di un nuovo prodotto o servizio (Apindustria Cremona) (1gg)
 * (2015) Strumenti Operativi per Team Leader (Apindustria Cremona) (1gg)
 
@@ -67,7 +67,7 @@
 * (2020) Introduzione alla stampa 3D e alla Manifattura Additiva (3DItaly Milano - autofinanziato 4 ore)
 * (2020) www.elementsofai.com : Corso online per cittadini digitali realizzato dal governo Finlandese. [certificato](https://github.com/AndreaTironi1/AndreaTironi1.github.io/blob/master/formazione/certificate-elements-of-ai.png)
 * (2019) Intro to DevOps (Udacity - self learning 2 ore)
-* (2019) G Suite Deployment Services Specialist Exam (Coursera - self learning 2 ore)
+* (2019) GSuite Deployment Services Specialist Exam (Coursera - self learning 2 ore)
 * (2019) Google Cloud Sales Fundamentals - Assessment (2 ore) (Coursera - self learning 2 ore)
 * (2019) Introduction to IOT 2.0 - (Cisco - Netacad - self learning 10 ore)
 * (2019) CyberSecurity Essentials 1.1 (Cisco - Netacad - self learning 20 ore)

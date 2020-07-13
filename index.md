@@ -51,6 +51,7 @@
 * (2015) FLY (Find the leader in You) presso Hrd Academy (autofinanziato) (1 anno)
 
 ### Gestionale 
+* (2020) Corso finanziamenti europei per le imprese e strumenti di finanza agevolata  - (IFOA - 16 ore)
 * (2020) Gestire un Team in Smartworking (sel-learning - Skilla - E-learning) 
 * (2020) Lean Basic Office & Services (Infor - Value Group) (1gg)
 * (2020) Agile Project Management - (Infor - Value Group) (1gg)

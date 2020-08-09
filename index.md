@@ -33,6 +33,10 @@
 * (2019-oggi) [Agendadigitale](https://www.agendadigitale.eu/?s=andrea+tironi) 
 * (2019-oggi) [Cybersecurity360](https://www.cybersecurity360.it/?s=andrea+tironi) 
 
+## Articolo su riviste
+* (2020) [il Project Manager - n° 43 anno 2020](https://github.com/AndreaTironi1/AndreaTironi1.github.io/blob/master/pubblicazioni/ProjectManagement_EDGE_recensione_(Minelle-Tironi).pdf)
+* (2020) [Strategie Amministrative](https://www.ancilab.it/strategie-amministrative/)
+
 ## Apparizioni in programmi televisivi
 
 * Inchiesta report sulla digitalizzazione nella Pubblica Amministrazione: [Basterebbe un click](https://www.raiplay.it/video/2019/12/-basterebbe-un-click---02122019-2c43e678-5649-4588-aa11-2d92efada242.html)

@@ -33,7 +33,7 @@
 * (2019-oggi) [Agendadigitale](https://www.agendadigitale.eu/?s=andrea+tironi) 
 * (2019-oggi) [Cybersecurity360](https://www.cybersecurity360.it/?s=andrea+tironi) 
 
-## Articolo su riviste
+## Articoli su riviste
 * (2020) [il Project Manager - n° 43 anno 2020](https://github.com/AndreaTironi1/AndreaTironi1.github.io/blob/master/pubblicazioni/ProjectManagement_EDGE_recensione_(Minelle-Tironi).pdf)
 * (2020) [Strategie Amministrative](https://www.ancilab.it/strategie-amministrative/)
 

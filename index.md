@@ -35,7 +35,7 @@
 
 ## Articoli su riviste
 * (2020) [Il Project Manager - n° 43 anno 2020](https://github.com/AndreaTironi1/AndreaTironi1.github.io/blob/master/pubblicazioni/ProjectManagement_EDGE_recensione_(Minelle-Tironi).pdf)
-* (2020) [Strategie Amministrative](https://www.ancilab.it/strategie-amministrative/)
+* (2020) [Strategie Amministrative - Giugno Luglio 2020](https://www.flipsnack.com/ancilab/strategie-amministrative-giugno-luglio-2020.html)
 
 ## Apparizioni in programmi televisivi
 

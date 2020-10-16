@@ -11,10 +11,11 @@
 * 2019/09/29 - [ValorePA “Produzione, gestione e conservazione dei documenti digitali e/o digitalizzati”](https://github.com/AndreaTironi1/AndreaTironi1.github.io/blob/master/docenze/20190329_MIP_Programma_Produzione_gestione_conservazione_documenti_digitali_base_Milano.pdf), organizzato da Politecnico di Milano
 
 ## Interventi come relatore
+* 2020/10/16 - [SDK IO](https://noiopen.it/) - Primo evento di presentazione - Portato l'esperienza avuta come early adopter
 * 2020/06/09 - VENETO AGILE | Smart Working - incontro n.2: "Tecnologie e competenze digitali" - Webinar Regione Veneto
-* 2020/03/17 - Il lavoro agile negli enti locali (emergenza #coronavirus) - Webinar Formez - http://eventipa.formez.it/node/213957
-* 2020/03/13 - Il lavoro agile negli enti locali (emergenza #coronavirus) - Webinar Formez - http://eventipa.formez.it/node/212449
-* 2019/11/27 - Community Call Team Digitale - https://lnkd.in/g9Jb47w
+* 2020/03/17 - Il lavoro agile negli enti locali (emergenza #coronavirus) - [Webinar Formez](http://eventipa.formez.it/node/213957)
+* 2020/03/13 - Il lavoro agile negli enti locali (emergenza #coronavirus) - [Webinar Formez](http://eventipa.formez.it/node/212449)
+* 2019/11/27 - [Community Call Team Digitale](https://lnkd.in/g9Jb47w)
 * 2019/11/16 - Percorsi formativi post scuola superiore (per due classi ITIS Informatica dell'istituto G.Galilei di Crema) - Organizzato da ConsorzioIT
 * 2019/11/13 - Secondo Raduno dei Responsabili per la Transizione al Digitale - [La trasformazione digitale della PA per il cittadino: organizzazione e tecnologie](https://www.lapadigitale.it/programma-raduno-responsabili-per-la-transizione-al-digitale-2019/#1571161242339-3d0dbc18-a3ca) - Organizzato da Maggioli s.p.a. e Studio E-Lex
 * 2019/07/02 - [Completiamo insieme il sistema operativo del Paese”](https://www.eventbrite.com/e/registrazione-completiamo-insieme-il-sistema-operativo-del-paese-61922841887), organizzato da Team Digitale

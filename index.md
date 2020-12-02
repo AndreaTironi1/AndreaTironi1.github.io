@@ -11,6 +11,7 @@
 * 2019/09/29 - [ValorePA “Modelli e strumenti di cooperazione tra PA- Forme di cooperazione multilivello”](https://www.som.polimi.it/downloadbrochuremip/IPA/ValorePA_Modelli_e_strumenti.pdf), organizzato da Politecnico di Milano
 
 ## Interventi come relatore
+* 2020/12/02 - [Adotta Spid e CIE per i servizi digitali della tua Impresa](https://www.youtube.com/watch?v=FCf6OUVr92E) - ClubTI4SPI - Spid e CIE anche nelle imprese - Repubblica Digitale
 * 2020/11/12 - [Assinter Academy, Modulo Smart Working e Data Living ](https://www.assinteritalia.it/it/15446/Introduzione-all-Academy) - Presentazione di IO (https://io.italia.it)
 * 2020/11/03 - [RTD Academy, Risorgimento Digitale](https://www.lapadigitale.it/rtd-academy/) - Presentazione di IO (https://io.italia.it)
 * 2020/10/28 - [Da zero a smartworking in una settimana](https://www.comunidigitali.it/it/b/1640/dazeroasmartworkingcosafareperandareinremotoinunasettiman-3) - Comuni Digitali - Anci Lombardia e Regione Lombardia

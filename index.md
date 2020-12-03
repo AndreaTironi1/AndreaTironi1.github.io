@@ -11,10 +11,13 @@
 * 2019/09/29 - [ValorePA “Modelli e strumenti di cooperazione tra PA- Forme di cooperazione multilivello”](https://www.som.polimi.it/downloadbrochuremip/IPA/ValorePA_Modelli_e_strumenti.pdf), organizzato da Politecnico di Milano
 
 ## Interventi come relatore
+* 2020/12/03 
+* 2020/12/03 - Avviare il Lavoro Agile nell'Ente Pubblico: dalla fase emergenziale a quella ordinaria - Formel
 * 2020/12/02 - [Adotta Spid e CIE per i servizi digitali della tua Impresa](https://www.youtube.com/watch?v=FCf6OUVr92E) - ClubTI4SPID - Spid e CIE anche nelle imprese - Repubblica Digitale
 * 2020/11/12 - [Assinter Academy, Modulo Smart Working e Data Living ](https://www.assinteritalia.it/it/15446/Introduzione-all-Academy) - Presentazione di IO (https://io.italia.it)
+* 2020/11/10 [Strumenti e applicazioni per lo smart working: soluzioni di base ed avanzate per operare da remoto](https://www.comunidigitali.it/it/competenze-digitali/formazione) - Comuni Digitali - Anci Lombardia e Regione Lombardia 
 * 2020/11/03 - [RTD Academy, Risorgimento Digitale](https://www.lapadigitale.it/rtd-academy/) - Presentazione di IO (https://io.italia.it)
-* 2020/10/28 - [Da zero a smartworking in una settimana](https://www.comunidigitali.it/it/b/1640/dazeroasmartworkingcosafareperandareinremotoinunasettiman-3) - Comuni Digitali - Anci Lombardia e Regione Lombardia
+* 2020/10/28 - [Da zero a smartworking in una settimana](https://www.comunidigitali.it/it/competenze-digitali/formazione) - Comuni Digitali - Anci Lombardia e Regione Lombardia
 * 2020/10/16 - [SDK IO](https://noiopen.it/) - Primo evento di presentazione - Portato l'esperienza avuta come early adopter
 * 2020/06/09 - VENETO AGILE | Smart Working - incontro n.2: "Tecnologie e competenze digitali" - Webinar Regione Veneto
 * 2020/03/17 - Il lavoro agile negli enti locali (emergenza #coronavirus) - [Webinar Formez](http://eventipa.formez.it/node/213957)

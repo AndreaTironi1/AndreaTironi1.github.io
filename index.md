@@ -11,7 +11,7 @@
 * 2019/09/29 - [ValorePA “Modelli e strumenti di cooperazione tra PA- Forme di cooperazione multilivello”](https://www.som.polimi.it/downloadbrochuremip/IPA/ValorePA_Modelli_e_strumenti.pdf), organizzato da Politecnico di Milano
 
 ## Interventi come relatore
-* 2020/10/12 - [Spazio, tempo e smart working: come, dove e quando nel lavoro ibrido](https://www.comunidigitali.it/it/competenze-digitali/formazione)
+* 2020/10/12 - [Spazio, tempo e smart working: come, dove e quando nel lavoro ibrido](https://www.comunidigitali.it/it/competenze-digitali/formazione)- Comuni Digitali - Anci Lombardia e Regione Lombardia
 * 2020/12/03 - [Digitalizzazione, smart working e prossimo futuro: dati, processi e servizi digitali per una nuova PA](https://www.comunidigitali.it/it/competenze-digitali/formazione) - Comuni Digitali - Anci Lombardia e Regione Lombardia
 * 2020/12/03 - Avviare il Lavoro Agile nell'Ente Pubblico: dalla fase emergenziale a quella ordinaria - Formel
 * 2020/12/02 - [Adotta Spid e CIE per i servizi digitali della tua Impresa](https://www.youtube.com/watch?v=FCf6OUVr92E) - ClubTI4SPID - Spid e CIE anche nelle imprese - Repubblica Digitale

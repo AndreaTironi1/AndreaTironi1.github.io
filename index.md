@@ -11,6 +11,7 @@
 * 2019/09/29 - [ValorePA “Modelli e strumenti di cooperazione tra PA- Forme di cooperazione multilivello”](https://www.som.polimi.it/downloadbrochuremip/IPA/ValorePA_Modelli_e_strumenti.pdf), organizzato da Politecnico di Milano
 
 ## Interventi come relatore
+* 2020/12/11 - [Ciclo di incontri Semplificazione e Innovazione Digitale](https://innovazione.gov.it/it/linee-guida-decreto-semplificazione/#ciclo-di-incontri) - Ministero Innovazione e Digitalizzazione
 * 2020/12/10 - [Spazio, tempo e smart working: come, dove e quando nel lavoro ibrido](https://www.comunidigitali.it/it/competenze-digitali/formazione)- Comuni Digitali - Anci Lombardia e Regione Lombardia
 * 2020/12/03 - [Digitalizzazione, smart working e prossimo futuro: dati, processi e servizi digitali per una nuova PA](https://www.comunidigitali.it/it/competenze-digitali/formazione) - Comuni Digitali - Anci Lombardia e Regione Lombardia
 * 2020/12/03 - Avviare il Lavoro Agile nell'Ente Pubblico: dalla fase emergenziale a quella ordinaria - Formel

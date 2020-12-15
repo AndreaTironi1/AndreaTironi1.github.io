@@ -127,6 +127,10 @@
 * 2019 - Lavorare in Digitale: lavorare con i "documenti informatici", Academy4PA CIT-Ancilab (4h)
 * 2019 - Posta Elettronica e Sicurezza Informatica, Academy4PA CIT-Ancilab (8h)
 
+## Volontariato Digitale
+
+* Libero cittadino che risponde ai quesiti su: [forum.italia.it](forum.italia.it)
+
 ## Associazioni
 
 * (2018-oggi) [CyberSayan](https://www.cybersaiyan.it/)

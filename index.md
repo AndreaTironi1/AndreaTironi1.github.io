@@ -36,6 +36,7 @@
 
 ## Articoli su testate digitali
 
+* (2020-oggi) [Forumpa tramite Assinter](https://www.forumpa.it/) - [Assinter](https://www.assinteritalia.it/)
 * (2020-oggi) [BigData4Innovation](https://www.bigdata4innovation.it/) 
 * (2020-oggi) [AI4Business](https://www.ai4business.it/)  
 * (2020-oggi) [Retecomuni](https://www.retecomuni.it/) 

@@ -32,7 +32,11 @@
 
 ## Co-Advisor Tesi
 
-* (2019) [Data analytics for vehicular traffic networks - Matteo Gandossi - UNIMI](https://github.com/AndreaTironi1/AndreaTironi1.github.io/blob/master/tesi/2019_Data%20analytics%20for%20vehicular%20traffic%20networks_Coadvisor.pdf) 
+* (2019) [Data analytics for vehicular traffic networks - Matteo Gandossi - UNIMI - Relatore Alberto Ceselli - Correllatore Andrea Tironi](https://github.com/AndreaTironi1/AndreaTironi1.github.io/blob/master/tesi/2019_Data%20analytics%20for%20vehicular%20traffic%20networks_Coadvisor.pdf) 
+* (2020) [Analisi di una rete logistica per lo scambio- Alberto Bertoncini - UNIMI - Relatore Alberto Ceselli - Correllatore Andrea Tironi
+
+
+interbibliotecario]
 
 ## Articoli su testate digitali
 

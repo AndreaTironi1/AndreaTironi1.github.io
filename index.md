@@ -36,9 +36,9 @@
 * (2020) [Analisi di una rete logistica per lo scambio interbibliotecario- Alberto Bertoncini - UNIMI - Advisor Alberto Ceselli - Co-Advisor Andrea Tironi](https://github.com/AndreaTironi1/AndreaTironi1.github.io/blob/master/tesi/2020_Bertoncini_Alberto_Tesi.pdf)
 
 
-
 ## Articoli su testate digitali
 
+* (2020-oggi) [Forumpa](https://www.forumpa.it/)
 * (2020-oggi) [Forumpa tramite Assinter](https://www.forumpa.it/) - [Assinter](https://www.assinteritalia.it/)
 * (2020-oggi) [BigData4Innovation](https://www.bigdata4innovation.it/) 
 * (2020-oggi) [AI4Business](https://www.ai4business.it/)  

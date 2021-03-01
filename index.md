@@ -138,7 +138,7 @@
 
 ## Associazioni
 
-* (2018-oggi) [CyberSayan](https://www.cybersaiyan.it/)
+* (2018-2020) [CyberSayan](https://www.cybersaiyan.it/)
 
 ## Conferenze seguite
 * 2019 [NoHat](https://www.nohat.it/)

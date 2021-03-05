@@ -6,11 +6,7 @@
 * email: nome.cognome@gmail.com
 * cell: da chiedere
 
-## Docenze Effettuate
-* 2019/10/29 - [ValorePA “Produzione, gestione e conservazione dei documenti digitali e/o digitalizzati”](https://github.com/AndreaTironi1/AndreaTironi1.github.io/blob/master/docenze/20190329_MIP_Programma_Produzione_gestione_conservazione_documenti_digitali_base_Milano.pdf), organizzato da Politecnico di Milano
-* 2019/09/29 - [ValorePA “Modelli e strumenti di cooperazione tra PA- Forme di cooperazione multilivello”](https://www.som.polimi.it/downloadbrochuremip/IPA/ValorePA_Modelli_e_strumenti.pdf), organizzato da Politecnico di Milano
-
-## Interventi come relatore
+## Docenze e Interventi come relatore
 * 2021/03/04 - [Campus POLA](https://www.forumpa.it/riforma-pa/smart-working/pola-ecco-il-centro-di-competenza-di-fpa-e-i-primi-incontri-formativi/) della  FPADigitalSchool - ForumPA
 * 2021/02/22 - Chiusura Ciclo Formazioni con Anci Lombardia sullo Smart Working
 * 2020/12/11 - [Ciclo di incontri Semplificazione e Innovazione Digitale](https://innovazione.gov.it/it/linee-guida-decreto-semplificazione/#ciclo-di-incontri) - Ministero Innovazione e Digitalizzazione - [Video](https://www.youtube.com/watch?v=d8seuHaaiDc&feature=emb_logo)- Minuto 1:05:00 e 1:26:00
@@ -29,7 +25,9 @@
 * 2019/11/27 - [Community Call Team Digitale](https://lnkd.in/g9Jb47w)
 * 2019/11/16 - Percorsi formativi post scuola superiore (per due classi ITIS Informatica dell'istituto G.Galilei di Crema) - Organizzato da ConsorzioIT
 * 2019/11/13 - Secondo Raduno dei Responsabili per la Transizione al Digitale - [La trasformazione digitale della PA per il cittadino: organizzazione e tecnologie](https://www.lapadigitale.it/programma-raduno-responsabili-per-la-transizione-al-digitale-2019/#1571161242339-3d0dbc18-a3ca) - Organizzato da Maggioli s.p.a. e Studio E-Lex
+* 2019/10/29 - [ValorePA “Produzione, gestione e conservazione dei documenti digitali e/o digitalizzati”](https://github.com/AndreaTironi1/AndreaTironi1.github.io/blob/master/docenze/20190329_MIP_Programma_Produzione_gestione_conservazione_documenti_digitali_base_Milano.pdf), organizzato da Politecnico di Milano
 * 2019/10/10 - [La transizione digitale della PA Locale e la gestione in forma associata dei sistemi e dei servizi ICT](https://github.com/AndreaTironi1/AndreaTironi1.github.io/blob/master/docenze/20191010_Risorse_e_Comuni_La_transizione_digitale_della_PA_Locale_e_la_gestione_in_forma_associata_dei_sistemi_e_dei_servizi_ICT.pdf), organizzato da Risorse e Comuni
+* 2019/09/29 - [ValorePA “Modelli e strumenti di cooperazione tra PA- Forme di cooperazione multilivello”](https://www.som.polimi.it/downloadbrochuremip/IPA/ValorePA_Modelli_e_strumenti.pdf), organizzato da Politecnico di Milano
 * 2019/07/02 - [Completiamo insieme il sistema operativo del Paese”](https://www.eventbrite.com/e/registrazione-completiamo-insieme-il-sistema-operativo-del-paese-61922841887), organizzato da Team Digitale
 
 ## Co-Advisor Tesi

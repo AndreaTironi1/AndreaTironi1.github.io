@@ -146,3 +146,6 @@
 * 2016 [HackInBo](https://hackinbo.it/)
 * 2015 [TedX Vicenza](https://www.tedxvicenza.com/)
 
+## Competenze Aggiuntive
+* googling
+

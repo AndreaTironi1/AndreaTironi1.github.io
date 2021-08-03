@@ -37,7 +37,6 @@
 
 
 ## Articoli su testate digitali
-
 * (2020-oggi) [Forumpa](https://www.forumpa.it/)
 * (2020-oggi) [Forumpa tramite Assinter](https://www.forumpa.it/) - [Assinter](https://www.assinteritalia.it/)
 * (2020-oggi) [BigData4Innovation](https://www.bigdata4innovation.it/) 
@@ -70,7 +69,7 @@
 * (2015) FLY (Find the leader in You) presso Hrd Academy (autofinanziato) (1 anno)
 
 ### Gestionale 
-* (2021) SEAV CREMONA - Europrogettazione area mobilità sostenibile (lombardiaeuropa2020)
+* (2021) SEAV CREMONA- Percorso Europrogettazione MOBILITA' SOSTENIBILE- Attestati di partecipazione (lombardiaeuropa2020)
 * (2020) Corso finanziamenti europei per le imprese e strumenti di finanza agevolata  - (IFOA - 16 ore)
 * (2020) Gestire un Team in Smartworking (sel-learning - Skilla - E-learning) 
 * (2020) Lean Basic Office & Services (Infor - Value Group) (1gg)

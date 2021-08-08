@@ -147,4 +147,7 @@
 
 ## Competenze Aggiuntive
 * googling
+* polymath (pa, it), 
+* lateral thinker
+* interpretative compilation of facts first gathered fro others
 

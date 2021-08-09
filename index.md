@@ -150,7 +150,8 @@
 * polymath (pa, it), 
 * lateral thinker
 * interpretative compilation of facts first gathered fro others
-
+* collecting and aggregate perspective
+* learn to learn
 
 ## Sport
 * ho giocato a basket e pallavolo, oltre che calcio

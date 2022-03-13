@@ -64,6 +64,7 @@
 ## Formazione 
 
 ### Personale
+* (2022) Future Literacy & Megatrend (SkillDoers)
 * (2016) Da zero a 10 Ekis (autofinanziato) (2gg)
 * (2015) L’intelligenza emotiva, strategie della mente  (Apindustria Cremona) (1gg)
 * (2015) FLY (Find the leader in You) presso Hrd Academy (autofinanziato) (1 anno)

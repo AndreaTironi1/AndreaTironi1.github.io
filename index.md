@@ -7,9 +7,9 @@
 * cell: da chiedere
 
 ## Docenze e Interventi come relatore
-* 2022/06/17 - Forumpa - Polo Strategico Nazionale e Strategia Cloud Italia: realizzare il sistema operativo del paese attraverso la collaborazione pubblico-privato
-* 2022/06/17 - Forumpa - Il Physical Layout, leva strategica dello Smart Workingo
-* 2022/06/17 - Forumpa - Cantiere Transizione Digitale
+* 2022/06/17 - Forumpa - [Polo Strategico Nazionale e Strategia Cloud Italia: realizzare il sistema operativo del paese attraverso la collaborazione pubblico-privato](https://www.forumpa.it/manifestazioni/forum-pa-2022/polo-strategico-nazionale-e-strategia-cloud-italia-realizzare-il-sistema-operativo-del-paese-attraverso-la-collaborazione-pubblico-privato/)
+* 2022/06/17 - Forumpa - [Il Physical Layout, leva strategica dello Smart Working](https://www.forumpa.it/manifestazioni/forum-pa-2022/il-physical-layout-leva-strategica-dello-smart-working/)
+* 2022/06/17 - Forumpa - [Cantiere Transizione Digitale](https://www.forumpa.it/manifestazioni/forum-pa-2022/cantiere-transizione-digitale/)
 * 2021/03/04 - [Campus POLA](https://www.forumpa.it/riforma-pa/smart-working/pola-ecco-il-centro-di-competenza-di-fpa-e-i-primi-incontri-formativi/) della  FPADigitalSchool - ForumPA
 * 2021/02/22 - Chiusura Ciclo Formazioni con Anci Lombardia sullo Smart Working
 * 2020/12/11 - [Ciclo di incontri Semplificazione e Innovazione Digitale](https://innovazione.gov.it/it/linee-guida-decreto-semplificazione/#ciclo-di-incontri) - Ministero Innovazione e Digitalizzazione - [Video](https://www.youtube.com/watch?v=d8seuHaaiDc&feature=emb_logo)- Minuto 1:05:00 e 1:26:00

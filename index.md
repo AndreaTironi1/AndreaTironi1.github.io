@@ -67,6 +67,7 @@
 ## Formazione 
 
 ### Personale
+* (2022) Mindfullness (Trentino School of management)
 * (2022) Future Literacy & Megatrend (SkillDoers)
 * (2016) Da zero a 10 Ekis (autofinanziato) (2gg)
 * (2015) L’intelligenza emotiva, strategie della mente  (Apindustria Cremona) (1gg)
@@ -89,6 +90,8 @@
 * (2015) Strumenti Operativi per Team Leader (Apindustria Cremona) (1gg)
 
 ###  Tecnica
+* (2022) PIAO - Piano integrato attività e organizzazione - Trentino School of Management (4 ore)
+* (2022) Il valore Pubblico - Trentino School of Management (3 ore)
 * (2022) PNRR  e PNC - Corsi Intensivo (E. Canciani) (6gg)
 * (2020) Attestato Pilota APR (operazioni non critiche) - (Enac) - (selfmade)
 * (2020) Introduzione alla stampa 3D e alla Manifattura Additiva (3DItaly Milano - autofinanziato 4 ore)

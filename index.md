@@ -74,7 +74,8 @@
 * (2015) FLY (Find the leader in You) presso Hrd Academy (autofinanziato) (1 anno)
 
 ### Gestionale 
-* (2022) Apolitical.co - Presenting data effectively 
+* (2022) Apolitical.co - Change Management (7h)
+* (2022) Apolitical.co - Presenting data effectively (6h)
 * (2022) Business Plan - Come redarre un business plan (Apindustria Cremona) (1gg)
 * (2021) SEAV CREMONA- Percorso Europrogettazione MOBILITA' SOSTENIBILE- Attestati di partecipazione (lombardiaeuropa2020)
 * (2020) Corso finanziamenti europei per le imprese e strumenti di finanza agevolata  - (IFOA - 16 ore)

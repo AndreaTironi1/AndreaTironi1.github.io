@@ -74,6 +74,7 @@
 * (2015) FLY (Find the leader in You) presso Hrd Academy (autofinanziato) (1 anno)
 
 ### Gestionale 
+* (2022) Apolitical.co - Appliying Strategic Thinking in Governmente (9h)
 * (2022) Apolitical.co - Digital Transformation (7h)
 * (2022) Apolitical.co - Change Management (7h)
 * (2022) Apolitical.co - Presenting data effectively (6h)

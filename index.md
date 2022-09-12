@@ -74,6 +74,7 @@
 * (2015) FLY (Find the leader in You) presso Hrd Academy (autofinanziato) (1 anno)
 
 ### Gestionale 
+* (2022) Apolitica.co & AWS - Leading transformation in Public Sector (3d)
 * (2022) Apolitical.co - Using BehaviouralProblem framing to find the right solution (8h)
 * (2022) X-Road Fundamentals - X-Road.global
 * (2022) Apolitical.co - Using Behavioural Insights in Government (7h)

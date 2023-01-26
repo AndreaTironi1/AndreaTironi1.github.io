@@ -99,6 +99,7 @@
 * (2015) Strumenti Operativi per Team Leader (Apindustria Cremona) (1gg)
 
 ###  Tecnica
+* (2023) Building AI: www.elementsofai.com : Seconda parte del corso online per cittadini digitali realizzato dal governo Finlandese.
 * (2022) PIAO - Piano integrato attività e organizzazione - Trentino School of Management (4 ore)
 * (2022) Il valore Pubblico - Trentino School of Management (3 ore)
 * (2022) PNRR  e PNC - Corsi Intensivo (E. Canciani) (6gg)

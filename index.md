@@ -175,5 +175,5 @@
 
 ## Sport
 * ho giocato a basket e pallavolo, oltre che calcio
-* dallo sporto ho imparato giocare in team, leadership, organizzazione, competizione, fatica per un risultato, perdere
+* dallo sport ho imparato giocare in team, leadership, organizzazione, competizione, fatica per un risultato, perdere 
 

@@ -100,7 +100,7 @@
 * (2015) Strumenti Operativi per Team Leader (Apindustria Cremona) (1gg)
 
 ###  Tecnica
-* (2023) Qualità dei servizi digitali - 1 Edizione: Formez (12 ore) [certificato](https://github.com/AndreaTironi1/AndreaTironi1.github.io/blob/master/formazione/certificate-qualita-servizi-digitali.pdf)
+* (2023) Qualità dei servizi digitali - 1 Edizione: Formez (12 ore): [certificato](https://github.com/AndreaTironi1/AndreaTironi1.github.io/blob/master/formazione/certificate-qualita-servizi-digitali.pdf)
 * (2023) Robocorp Beginners' course certificate : [certificato](https://github.com/AndreaTironi1/AndreaTironi1.github.io/blob/master/formazione/certificate_robocorp_beginnercourse.pdf)
 * (2023) Building AI: www.elementsofai.com : Seconda parte del corso online per cittadini digitali realizzato dal governo Finlandese.
 * (2022) PIAO - Piano integrato attività e organizzazione - Trentino School of Management (4 ore)

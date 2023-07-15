@@ -7,7 +7,7 @@
 * cell: da chiedere
 
 ## Docenze e Interventi come relatore
-* 2023/06 - Formez - [Transizione Digitale e PNRR: investimenti, opportunità e sfide per la trasformazione digitale della PA]([https://www.formel.it/corso/area-amministrativa/abilitare-e-facilitare-la-migrazione-al-cloud/idcorso_16082](http://eventipa.formez.it/node/431138))
+* 2023/06 - Formez - [Transizione Digitale e PNRR: investimenti, opportunità e sfide per la trasformazione digitale della PA](https://www.formel.it/corso/area-amministrativa/abilitare-e-facilitare-la-migrazione-al-cloud/idcorso_16082](http://eventipa.formez.it/node/431138)
 * 2023/03/30 - Formel - [Corso di formazione sulla Migrazione al Cloud](https://www.formel.it/corso/area-amministrativa/abilitare-e-facilitare-la-migrazione-al-cloud/idcorso_16082)
 * 2022/11/07 - Formel - [Corso di formazione sulla Migrazione al Cloud](https://www.formel.it/corso/area-amministrativa/migrare-al-cloud/idcorso_15432/?utm_source=newsletter&utm_medium=email&utm_campaign=n11553-11-10-2022-corso-online-migrare-al-cloud&utm_term=Enrico&utm_content=link_2)
 * 2022/06/17 - Forumpa - [Polo Strategico Nazionale e Strategia Cloud Italia: realizzare il sistema operativo del paese attraverso la collaborazione pubblico-privato](https://www.forumpa.it/manifestazioni/forum-pa-2022/polo-strategico-nazionale-e-strategia-cloud-italia-realizzare-il-sistema-operativo-del-paese-attraverso-la-collaborazione-pubblico-privato/)

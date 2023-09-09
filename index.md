@@ -7,6 +7,7 @@
 * cell: da chiedere
 
 ## Docenze e Interventi come relatore
+* 2023/07 - Formez, Progetto Laros per Regione Sardegna - Creazione di 8 moduli sulla Cybersicurezza sottoforma di pillole di elearning (negli 8 moduli sono presenti anche AI e Dati)
 * 2023/06 - Formez - [Transizione Digitale e PNRR: investimenti, opportunità e sfide per la trasformazione digitale della PA](http://eventipa.formez.it/node/431138)
 * 2023/03/30 - Formel - [Corso di formazione sulla Migrazione al Cloud](https://www.formel.it/corso/area-amministrativa/migrare-al-cloud/idcorso_15432/?utm_source=newsletter&utm_medium=email&utm_campaign=n11553-11-10-2022-corso-online-migrare-al-cloud&utm_term=Enrico&utm_content=link_2)
 * 2022/11/07 - Formel - [Corso di formazione sulla Migrazione al Cloud](https://www.formel.it/corso/area-amministrativa/migrare-al-cloud/idcorso_15432/?utm_source=newsletter&utm_medium=email&utm_campaign=n11553-11-10-2022-corso-online-migrare-al-cloud&utm_term=Enrico&utm_content=link_2)

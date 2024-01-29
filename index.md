@@ -103,7 +103,7 @@
 
 ###  Tecnica
 * (2024) Duet AI in Gmail - (Google) (< 1 ora), Duet AI in Google Workspace - (Google) (< 1 ora)
-* (2024) Introduction to Responsible AI (Google) (< 1 ora) - Attention Mechanism (Google) (< 1 ora)
+* (2024) Introduction to Responsible AI (Google) (< 1 ora) - Attention Mechanism (Google) (< 1 ora) - Introduction to Large Language Models (Google) (< 1 ora)
 * (2023) Corso Open ID Connect per misura 1.4.4 PNRR (Anci Lombardia - Ancilab) (25 ore)
 * (2023) Qualità dei servizi digitali - 1 Edizione: Formez (12 ore): [certificato](https://github.com/AndreaTironi1/AndreaTironi1.github.io/blob/master/formazione/certificate-qualita-servizi-digitali.pdf)
 * (2023) Robocorp Beginners' course certificate : [certificato](https://github.com/AndreaTironi1/AndreaTironi1.github.io/blob/master/formazione/certificate_robocorp_beginnercourse.pdf)

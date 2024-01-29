@@ -61,8 +61,8 @@
 
 ## Apparizioni in programmi televisivi
 
-* Inchiesta report sulla digitalizzazione nella Pubblica Amministrazione: [Basterebbe un click](https://www.raiplay.it/video/2019/12/-basterebbe-un-click---02122019-2c43e678-5649-4588-aa11-2d92efada242.html)
-* [Promo dell'inchiesta sulla digitalizzazione nella Pubblica Amministrazione](https://www.facebook.com/ReportRai3/videos/2748293455259595/)
+* (2019) Inchiesta report sulla digitalizzazione nella Pubblica Amministrazione: [Basterebbe un click](https://www.raiplay.it/video/2019/12/-basterebbe-un-click---02122019-2c43e678-5649-4588-aa11-2d92efada242.html)
+* (2019) [Promo dell'inchiesta sulla digitalizzazione nella Pubblica Amministrazione](https://www.facebook.com/ReportRai3/videos/2748293455259595/)
 
 ## Siti realizzati in collaborazione
 
@@ -164,6 +164,8 @@
 
 ## Associazioni
 
+* (2021-oggi) [Associazione Cittadinanza Digitale]([https://www.cybersaiyan.it/](https://www.associazionecittadinanzadigitale.org/))
+* (2021-oggi) [Italia Institute for the future]([https://www.cybersaiyan.it/](https://www.instituteforthefuture.it/))
 * (2018-2020) [CyberSayan](https://www.cybersaiyan.it/)
 
 ## Conferenze seguite
@@ -183,5 +185,6 @@
 
 ## Sport
 * ho giocato a basket e pallavolo, oltre che calcio
+* pilates, ginnastica posturale
 * dallo sport ho imparato giocare in team, leadership, organizzazione, competizione, fatica per un risultato, perdere 
 

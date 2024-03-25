@@ -45,6 +45,7 @@
 
 
 ## Articoli su testate digitali
+* (2024-oggi) [Lente Pubblica](https://www.lentepubblica.it/)
 * (2020-oggi) [Forumpa](https://www.forumpa.it/)
 * (2020-oggi) [Forumpa tramite Assinter](https://www.forumpa.it/) - [Assinter](https://www.assinteritalia.it/)
 * (2020-oggi) [BigData4Innovation](https://www.bigdata4innovation.it/) 

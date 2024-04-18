@@ -8,41 +8,41 @@
 
 ## Libri
 
-* [PAntascienza](https://themiscrime.com/it/edizioni-themis/fuori-collana/item/606-pantascienza)
+* (2024) [PAntascienza](https://themiscrime.com/it/edizioni-themis/fuori-collana/item/606-pantascienza)
 
 ## Docenze e Interventi come relatore
-* 2024/04 - Formez [Rivoluzione digitale: le nuove sfide per la PA tra PNRR, Piano Triennale, Cybersecurity e Intelligenza Artificiale](http://eventipa.formez.it/node/450691)
-* 2024/04 - IFEL, [Gli strumenti per l'attuazione del Piano triennale: Gestione associata ICT](https://www.fondazioneifel.it/catalogo-eventi/event/100-riforma-e-innovazione-enti-locali/3644-gli-strumenti-per-l-attuazione-del-piano-triennale-gestione-associata-ict)
-* 2023/10 - Formel, [Cyber Autodifesa Digitale](https://www.formel.it/corso/area-amministrativa/cyber-autodifesa-digitale/idcorso_16083) 
-* 2023/07 - Formez, Progetto Laros per Regione Sardegna - Creazione di 8 moduli sulla Cybersicurezza sottoforma di pillole di elearning (negli 8 moduli sono presenti anche AI e Dati)
-* 2023/06 - Formez - [Transizione Digitale e PNRR: investimenti, opportunità e sfide per la trasformazione digitale della PA](http://eventipa.formez.it/node/431138)
-* 2023/03/30 - Formel - [Corso di formazione sulla Migrazione al Cloud](https://www.formel.it/corso/area-amministrativa/migrare-al-cloud/idcorso_15432/?utm_source=newsletter&utm_medium=email&utm_campaign=n11553-11-10-2022-corso-online-migrare-al-cloud&utm_term=Enrico&utm_content=link_2)
-* 2022/11/07 - Formel - [Corso di formazione sulla Migrazione al Cloud](https://www.formel.it/corso/area-amministrativa/migrare-al-cloud/idcorso_15432/?utm_source=newsletter&utm_medium=email&utm_campaign=n11553-11-10-2022-corso-online-migrare-al-cloud&utm_term=Enrico&utm_content=link_2)
-* 2022/06/17 - Forumpa - [Polo Strategico Nazionale e Strategia Cloud Italia: realizzare il sistema operativo del paese attraverso la collaborazione pubblico-privato](https://www.forumpa.it/manifestazioni/forum-pa-2022/polo-strategico-nazionale-e-strategia-cloud-italia-realizzare-il-sistema-operativo-del-paese-attraverso-la-collaborazione-pubblico-privato/)
-* 2022/06/17 - Forumpa - [Il Physical Layout, leva strategica dello Smart Working](https://www.forumpa.it/manifestazioni/forum-pa-2022/il-physical-layout-leva-strategica-dello-smart-working/)
-* 2022/06/17 - Forumpa - [Cantiere Transizione Digitale](https://www.forumpa.it/manifestazioni/forum-pa-2022/cantiere-transizione-digitale/)
-* 2021/03/04 - [Campus POLA](https://www.forumpa.it/riforma-pa/smart-working/pola-ecco-il-centro-di-competenza-di-fpa-e-i-primi-incontri-formativi/) della  FPADigitalSchool - ForumPA
-* 2021/02/22 - Chiusura Ciclo Formazioni con Anci Lombardia sullo Smart Working
-* 2020/12/11 - [Ciclo di incontri Semplificazione e Innovazione Digitale](https://innovazione.gov.it/it/linee-guida-decreto-semplificazione/#ciclo-di-incontri) - Ministero Innovazione e Digitalizzazione - [Video](https://www.youtube.com/watch?v=d8seuHaaiDc&feature=emb_logo)- Minuto 1:05:00 e 1:26:00
-* 2020/12/10 - [Spazio, tempo e smart working: come, dove e quando nel lavoro ibrido](https://www.comunidigitali.it/it/competenze-digitali/formazione)- Comuni Digitali - Anci Lombardia e Regione Lombardia
-* 2020/12/03 - [Digitalizzazione, smart working e prossimo futuro: dati, processi e servizi digitali per una nuova PA](https://www.comunidigitali.it/it/competenze-digitali/formazione) - Comuni Digitali - Anci Lombardia e Regione Lombardia
-* 2020/12/03 - Avviare il Lavoro Agile nell'Ente Pubblico: dalla fase emergenziale a quella ordinaria - Formel
-* 2020/12/02 - [Adotta Spid e CIE per i servizi digitali della tua Impresa](https://www.youtube.com/watch?v=FCf6OUVr92E) - ClubTI4SPID - Spid e CIE anche nelle imprese - Repubblica Digitale
-* 2020/11/12 - [Assinter Academy, Modulo Smart Working e Data Living ](https://www.assinteritalia.it/it/15446/Introduzione-all-Academy) - Presentazione di IO (https://io.italia.it)
-* 2020/11/10 [Strumenti e applicazioni per lo smart working: soluzioni di base ed avanzate per operare da remoto](https://www.comunidigitali.it/it/competenze-digitali/formazione) - Comuni Digitali - Anci Lombardia e Regione Lombardia 
-* 2020/11/03 - [RTD Academy, Risorgimento Digitale](https://www.lapadigitale.it/rtd-academy/) - Presentazione di IO (https://io.italia.it)
-* 2020/10/28 - [Da zero a smartworking in una settimana](https://www.comunidigitali.it/it/competenze-digitali/formazione) - Comuni Digitali - Anci Lombardia e Regione Lombardia
-* 2020/10/16 - [SDK IO](https://noiopen.it/) - Primo evento di presentazione - Portato l'esperienza avuta come early adopter
-* 2020/06/09 - VENETO AGILE | Smart Working - incontro n.2: "Tecnologie e competenze digitali" - Webinar Regione Veneto
-* 2020/03/17 - Il lavoro agile negli enti locali (emergenza #coronavirus) - [Webinar Formez](http://eventipa.formez.it/node/213957)
-* 2020/03/13 - Il lavoro agile negli enti locali (emergenza #coronavirus) - [Webinar Formez](http://eventipa.formez.it/node/212449)
-* 2019/11/27 - [Community Call Team Digitale](https://lnkd.in/g9Jb47w)
-* 2019/11/16 - Percorsi formativi post scuola superiore (per due classi ITIS Informatica dell'istituto G.Galilei di Crema) - Organizzato da ConsorzioIT
-* 2019/11/13 - Secondo Raduno dei Responsabili per la Transizione al Digitale - [La trasformazione digitale della PA per il cittadino: organizzazione e tecnologie](https://www.lapadigitale.it/programma-raduno-responsabili-per-la-transizione-al-digitale-2019/#1571161242339-3d0dbc18-a3ca) - Organizzato da Maggioli s.p.a. e Studio E-Lex
-* 2019/10/29 - [ValorePA “Produzione, gestione e conservazione dei documenti digitali e/o digitalizzati”](https://github.com/AndreaTironi1/AndreaTironi1.github.io/blob/master/docenze/20190329_MIP_Programma_Produzione_gestione_conservazione_documenti_digitali_base_Milano.pdf), organizzato da Politecnico di Milano
-* 2019/10/10 - [La transizione digitale della PA Locale e la gestione in forma associata dei sistemi e dei servizi ICT](https://github.com/AndreaTironi1/AndreaTironi1.github.io/blob/master/docenze/20191010_Risorse_e_Comuni_La_transizione_digitale_della_PA_Locale_e_la_gestione_in_forma_associata_dei_sistemi_e_dei_servizi_ICT.pdf), organizzato da Risorse e Comuni
-* 2019/09/29 - [ValorePA “Modelli e strumenti di cooperazione tra PA- Forme di cooperazione multilivello”](https://www.som.polimi.it/downloadbrochuremip/IPA/ValorePA_Modelli_e_strumenti.pdf), organizzato da Politecnico di Milano
-* 2019/07/02 - [Completiamo insieme il sistema operativo del Paese”](https://www.eventbrite.com/e/registrazione-completiamo-insieme-il-sistema-operativo-del-paese-61922841887), organizzato da Team Digitale
+* (2024/04) - Formez [Rivoluzione digitale: le nuove sfide per la PA tra PNRR, Piano Triennale, Cybersecurity e Intelligenza Artificiale](http://eventipa.formez.it/node/450691)
+* (2024/04) - IFEL, [Gli strumenti per l'attuazione del Piano triennale: Gestione associata ICT](https://www.fondazioneifel.it/catalogo-eventi/event/100-riforma-e-innovazione-enti-locali/3644-gli-strumenti-per-l-attuazione-del-piano-triennale-gestione-associata-ict)
+* (2023/10) - Formel, [Cyber Autodifesa Digitale](https://www.formel.it/corso/area-amministrativa/cyber-autodifesa-digitale/idcorso_16083) 
+* (2023/07) - Formez, Progetto Laros per Regione Sardegna - Creazione di 8 moduli sulla Cybersicurezza sottoforma di pillole di elearning (negli 8 moduli sono presenti anche AI e Dati)
+* (2023/06) - Formez - [Transizione Digitale e PNRR: investimenti, opportunità e sfide per la trasformazione digitale della PA](http://eventipa.formez.it/node/431138)
+* (2023/03/30) - Formel - [Corso di formazione sulla Migrazione al Cloud](https://www.formel.it/corso/area-amministrativa/migrare-al-cloud/idcorso_15432/?utm_source=newsletter&utm_medium=email&utm_campaign=n11553-11-10-2022-corso-online-migrare-al-cloud&utm_term=Enrico&utm_content=link_2)
+* (2022/11/07) - Formel - [Corso di formazione sulla Migrazione al Cloud](https://www.formel.it/corso/area-amministrativa/migrare-al-cloud/idcorso_15432/?utm_source=newsletter&utm_medium=email&utm_campaign=n11553-11-10-2022-corso-online-migrare-al-cloud&utm_term=Enrico&utm_content=link_2)
+* (2022/06/17) - Forumpa - [Polo Strategico Nazionale e Strategia Cloud Italia: realizzare il sistema operativo del paese attraverso la collaborazione pubblico-privato](https://www.forumpa.it/manifestazioni/forum-pa-2022/polo-strategico-nazionale-e-strategia-cloud-italia-realizzare-il-sistema-operativo-del-paese-attraverso-la-collaborazione-pubblico-privato/)
+* (2022/06/17) - Forumpa - [Il Physical Layout, leva strategica dello Smart Working](https://www.forumpa.it/manifestazioni/forum-pa-2022/il-physical-layout-leva-strategica-dello-smart-working/)
+* (2022/06/17) - Forumpa - [Cantiere Transizione Digitale](https://www.forumpa.it/manifestazioni/forum-pa-2022/cantiere-transizione-digitale/)
+* (2021/03/04) - [Campus POLA](https://www.forumpa.it/riforma-pa/smart-working/pola-ecco-il-centro-di-competenza-di-fpa-e-i-primi-incontri-formativi/) della  FPADigitalSchool - ForumPA
+* (2021/02/22) - Chiusura Ciclo Formazioni con Anci Lombardia sullo Smart Working
+* (2020/12/11) - [Ciclo di incontri Semplificazione e Innovazione Digitale](https://innovazione.gov.it/it/linee-guida-decreto-semplificazione/#ciclo-di-incontri) - Ministero Innovazione e Digitalizzazione - [Video](https://www.youtube.com/watch?v=d8seuHaaiDc&feature=emb_logo)- Minuto 1:05:00 e 1:26:00
+* (2020/12/10) - [Spazio, tempo e smart working: come, dove e quando nel lavoro ibrido](https://www.comunidigitali.it/it/competenze-digitali/formazione)- Comuni Digitali - Anci Lombardia e Regione Lombardia
+* (2020/12/03) - [Digitalizzazione, smart working e prossimo futuro: dati, processi e servizi digitali per una nuova PA](https://www.comunidigitali.it/it/competenze-digitali/formazione) - Comuni Digitali - Anci Lombardia e Regione Lombardia
+* (2020/12/03) - Avviare il Lavoro Agile nell'Ente Pubblico: dalla fase emergenziale a quella ordinaria - Formel
+* (2020/12/02) - [Adotta Spid e CIE per i servizi digitali della tua Impresa](https://www.youtube.com/watch?v=FCf6OUVr92E) - ClubTI4SPID - Spid e CIE anche nelle imprese - Repubblica Digitale
+* (2020/11/12) - [Assinter Academy, Modulo Smart Working e Data Living ](https://www.assinteritalia.it/it/15446/Introduzione-all-Academy) - Presentazione di IO (https://io.italia.it)
+* (2020/11/10) [Strumenti e applicazioni per lo smart working: soluzioni di base ed avanzate per operare da remoto](https://www.comunidigitali.it/it/competenze-digitali/formazione) - Comuni Digitali - Anci Lombardia e Regione Lombardia 
+* (2020/11/03) - [RTD Academy, Risorgimento Digitale](https://www.lapadigitale.it/rtd-academy/) - Presentazione di IO (https://io.italia.it)
+* (2020/10/28) - [Da zero a smartworking in una settimana](https://www.comunidigitali.it/it/competenze-digitali/formazione) - Comuni Digitali - Anci Lombardia e Regione Lombardia
+* (2020/10/16) - [SDK IO](https://noiopen.it/) - Primo evento di presentazione - Portato l'esperienza avuta come early adopter
+* (2020/06/09) - VENETO AGILE | Smart Working - incontro n.2: "Tecnologie e competenze digitali" - Webinar Regione Veneto
+* (2020/03/17) - Il lavoro agile negli enti locali (emergenza #coronavirus) - [Webinar Formez](http://eventipa.formez.it/node/213957)
+* (2020/03/13) - Il lavoro agile negli enti locali (emergenza #coronavirus) - [Webinar Formez](http://eventipa.formez.it/node/212449)
+* (2019/11/27) - [Community Call Team Digitale](https://lnkd.in/g9Jb47w)
+* (2019/11/16) - Percorsi formativi post scuola superiore (per due classi ITIS Informatica dell'istituto G.Galilei di Crema) - Organizzato da ConsorzioIT
+* (2019/11/13) - Secondo Raduno dei Responsabili per la Transizione al Digitale - [La trasformazione digitale della PA per il cittadino: organizzazione e tecnologie](https://www.lapadigitale.it/programma-raduno-responsabili-per-la-transizione-al-digitale-2019/#1571161242339-3d0dbc18-a3ca) - Organizzato da Maggioli s.p.a. e Studio E-Lex
+* (2019/10/29) - [ValorePA “Produzione, gestione e conservazione dei documenti digitali e/o digitalizzati”](https://github.com/AndreaTironi1/AndreaTironi1.github.io/blob/master/docenze/20190329_MIP_Programma_Produzione_gestione_conservazione_documenti_digitali_base_Milano.pdf), organizzato da Politecnico di Milano
+* (2019/10/10) - [La transizione digitale della PA Locale e la gestione in forma associata dei sistemi e dei servizi ICT](https://github.com/AndreaTironi1/AndreaTironi1.github.io/blob/master/docenze/20191010_Risorse_e_Comuni_La_transizione_digitale_della_PA_Locale_e_la_gestione_in_forma_associata_dei_sistemi_e_dei_servizi_ICT.pdf), organizzato da Risorse e Comuni
+* (2019/09/29) - [ValorePA “Modelli e strumenti di cooperazione tra PA- Forme di cooperazione multilivello”](https://www.som.polimi.it/downloadbrochuremip/IPA/ValorePA_Modelli_e_strumenti.pdf), organizzato da Politecnico di Milano
+* (2019/07/02) - [Completiamo insieme il sistema operativo del Paese”](https://www.eventbrite.com/e/registrazione-completiamo-insieme-il-sistema-operativo-del-paese-61922841887), organizzato da Team Digitale
 
 ## Co-Advisor Tesi
 

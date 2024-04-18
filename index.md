@@ -6,6 +6,10 @@
 * email: nome.cognome@gmail.com
 * cell: da chiedere
 
+## Libri
+
+* [PAntascienza](https://themiscrime.com/it/edizioni-themis/fuori-collana/item/606-pantascienza)
+
 ## Docenze e Interventi come relatore
 * 2024/04 - Formez [Rivoluzione digitale: le nuove sfide per la PA tra PNRR, Piano Triennale, Cybersecurity e Intelligenza Artificiale](http://eventipa.formez.it/node/450691)
 * 2024/04 - IFEL, [Gli strumenti per l'attuazione del Piano triennale: Gestione associata ICT](https://www.fondazioneifel.it/catalogo-eventi/event/100-riforma-e-innovazione-enti-locali/3644-gli-strumenti-per-l-attuazione-del-piano-triennale-gestione-associata-ict)

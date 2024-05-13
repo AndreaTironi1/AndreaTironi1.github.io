@@ -12,7 +12,7 @@
 
 ## Docenze e Interventi come relatore
 * (2024/04) - Formez [Rivoluzione digitale: le nuove sfide per la PA tra PNRR, Piano Triennale, Cybersecurity e Intelligenza Artificiale](http://eventipa.formez.it/node/450691)
-* (2024/04) - IFEL, [Gli strumenti per l'attuazione del Piano triennale: Gestione associata ICT](https://www.fondazioneifel.it/catalogo-eventi/event/100-riforma-e-innovazione-enti-locali/3644-gli-strumenti-per-l-attuazione-del-piano-triennale-gestione-associata-ict)
+* (2024/04) - IFEL [Gli strumenti per l'attuazione del Piano triennale: Gestione associata ICT](https://www.fondazioneifel.it/catalogo-eventi/event/100-riforma-e-innovazione-enti-locali/3644-gli-strumenti-per-l-attuazione-del-piano-triennale-gestione-associata-ict)
 * (2023/10) - Formel, [Cyber Autodifesa Digitale](https://www.formel.it/corso/area-amministrativa/cyber-autodifesa-digitale/idcorso_16083) 
 * (2023/07) - Formez, Progetto Laros per Regione Sardegna - Creazione di 8 moduli sulla Cybersicurezza sottoforma di pillole di elearning (negli 8 moduli sono presenti anche AI e Dati)
 * (2023/06) - Formez - [Transizione Digitale e PNRR: investimenti, opportunità e sfide per la trasformazione digitale della PA](http://eventipa.formez.it/node/431138)

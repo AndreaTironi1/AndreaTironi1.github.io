@@ -51,16 +51,16 @@
 
 
 ## Articoli su testate digitali
-* (2024-oggi) [Lente Pubblica](https://www.lentepubblica.it/)
-* (2020-oggi) [Forumpa](https://www.forumpa.it/)
-* (2020-oggi) [Forumpa tramite Assinter](https://www.forumpa.it/) - [Assinter](https://www.assinteritalia.it/)
-* (2020-oggi) [BigData4Innovation](https://www.bigdata4innovation.it/) 
-* (2020-oggi) [AI4Business](https://www.ai4business.it/)  
-* (2020-oggi) [Retecomuni](https://www.retecomuni.it/) 
-* (2020-oggi) [Comuni Digitali](https://www.comunidigitali.it/) 
-* (2020-oggi) [Strategie Amministrative](https://www.strategieamministrative.it) 
-* (2019-oggi) [Agendadigitale](https://www.agendadigitale.eu/?s=andrea+tironi) 
-* (2019-oggi) [Cybersecurity360](https://www.cybersecurity360.it/?s=andrea+tironi) 
+* (2024-oggi) ( < 5 articoli) [Lente Pubblica](https://www.lentepubblica.it/)
+* (2020-oggi) ( 25+ articoli)[Forumpa](https://www.forumpa.it/)
+* (2020-oggi) ( < 5 articoli)[Forumpa tramite Assinter](https://www.forumpa.it/) - [Assinter](https://www.assinteritalia.it/)
+* (2020-oggi) ( < 5 articoli)[BigData4Innovation](https://www.bigdata4innovation.it/) 
+* (2020-oggi) ( < 5 articoli)[AI4Business](https://www.ai4business.it/)  
+* (2020-oggi) ( < 5 articoli)[Retecomuni](https://www.retecomuni.it/) 
+* (2020-oggi) ( < 5 articoli)[Comuni Digitali](https://www.comunidigitali.it/) 
+* (2020-oggi) ( < 5 articoli)[Strategie Amministrative](https://www.strategieamministrative.it) 
+* (2019-oggi) (100+ articoli)[Agendadigitale](https://www.agendadigitale.eu/?s=andrea+tironi) 
+* (2019-oggi) ( < 5 articoli)[Cybersecurity360](https://www.cybersecurity360.it/?s=andrea+tironi) 
 
 ## Articoli su riviste
 * (2020) [Il Project Manager - n° 43 anno 2020](https://github.com/AndreaTironi1/AndreaTironi1.github.io/blob/master/pubblicazioni/ProjectManagement_EDGE_recensione_(Minelle-Tironi).pdf)
@@ -73,8 +73,8 @@
 
 ## Siti realizzati in collaborazione
 
-* (2020) www.codiv19-italia.eu
-* (2014) www.moneyriskanalysis.com
+* (2020) [www.codiv19-italia.eu](www.codiv19-italia.eu)
+* (2014) [www.moneyriskanalysis.com](www.moneyriskanalysis.com)
 
 ## Formazione 
 
@@ -162,10 +162,10 @@
 * (2009) One day Windows 7 presso Pipeline (1gg)
 
 ## Trasformazione Digitale
-* 2019 - La cittadinanza digitale e l'attuazione dei diritti dei cittadini e delle imprese, Academy4PA CIT-Ancilab (4h)
-* 2019 - Dal nuovo Piano Triennale per l'informatica 2019-2021 ai Piani di sviluppo ICT delle PAL, Academy4PA CIT-Ancilab(4h)
-* 2019 - Lavorare in Digitale: lavorare con i "documenti informatici", Academy4PA CIT-Ancilab (4h)
-* 2019 - Posta Elettronica e Sicurezza Informatica, Academy4PA CIT-Ancilab (8h)
+* (2019) La cittadinanza digitale e l'attuazione dei diritti dei cittadini e delle imprese, Academy4PA CIT-Ancilab (4h)
+* (2019) Dal nuovo Piano Triennale per l'informatica 2019-2021 ai Piani di sviluppo ICT delle PAL, Academy4PA CIT-Ancilab(4h)
+* (2019) Lavorare in Digitale: lavorare con i "documenti informatici", Academy4PA CIT-Ancilab (4h)
+* (2019) Posta Elettronica e Sicurezza Informatica, Academy4PA CIT-Ancilab (8h)
 
 ## Volontariato Digitale
 
@@ -173,7 +173,7 @@
 
 ## Associazioni
 
-* (2021-oggi) [Associazione Cittadinanza Digitale]([https://www.cybersaiyan.it/](https://www.associazionecittadinanzadigitale.org/))
+* (2022-oggi) [Associazione Cittadinanza Digitale]([https://www.cybersaiyan.it/](https://www.associazionecittadinanzadigitale.org/))
 * (2021-oggi) [Italia Institute for the future]([https://www.cybersaiyan.it/](https://www.instituteforthefuture.it/))
 * (2018-2020) [CyberSayan](https://www.cybersaiyan.it/)
 
@@ -193,7 +193,6 @@
 * learn to learn
 
 ## Sport
-* ho giocato a basket e pallavolo, oltre che calcio
+* ho giocato a basket e pallavolo (livello amatoriale)
 * pilates, ginnastica posturale
-* dallo sport ho imparato giocare in team, leadership, organizzazione, competizione, fatica per un risultato, perdere 
-
+* dallo sport ho imparato a giocare in team, leadership, organizzazione, competizione, fatica per un risultato, non mollare

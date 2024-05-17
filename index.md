@@ -11,7 +11,7 @@
 * (2024) [PAntascienza](https://themiscrime.com/it/edizioni-themis/fuori-collana/item/606-pantascienza)
 
 ## Docenze e Interventi come relatore
-* (2024/05) - [Associazione Italiana Formatori, Premio Basile, Laboratorio 3 - Tecnologie – Intelligenza artificiale e PA](https://associazioneitalianaformatori.it/th_event/xx-convegno-pubblica-amministrazione-e-xxii-premio-filippo-basile-2/)
+* (2024/05) - Associazione Italiana Formatori, Premio Basile [Laboratorio 3 - Tecnologie – Intelligenza artificiale e PA](https://associazioneitalianaformatori.it/th_event/xx-convegno-pubblica-amministrazione-e-xxii-premio-filippo-basile-2/)
 * (2024/04) - Formez [Rivoluzione digitale: le nuove sfide per la PA tra PNRR, Piano Triennale, Cybersecurity e Intelligenza Artificiale](http://eventipa.formez.it/node/450691)
 * (2024/04) - IFEL [Gli strumenti per l'attuazione del Piano triennale: Gestione associata ICT](https://www.fondazioneifel.it/catalogo-eventi/event/100-riforma-e-innovazione-enti-locali/3644-gli-strumenti-per-l-attuazione-del-piano-triennale-gestione-associata-ict)
 * (2023/10) - Formel, [Cyber Autodifesa Digitale](https://www.formel.it/corso/area-amministrativa/cyber-autodifesa-digitale/idcorso_16083) 

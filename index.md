@@ -170,12 +170,14 @@
 
 ## Volontariato Digitale
 
-* Libero cittadino che risponde ai quesiti su: [forum.italia.it](forum.italia.it)
+* (2017-oggi) Libero cittadino che risponde ai quesiti su: [forum.italia.it](forum.italia.it)
+* (2004-2018)Comune di Orzinuovi
 
 ## Associazioni
 
-* (2022-oggi) [Associazione Cittadinanza Digitale]([https://www.cybersaiyan.it/](https://www.associazionecittadinanzadigitale.org/))
-* (2021-oggi) [Italia Institute for the future]([https://www.cybersaiyan.it/](https://www.instituteforthefuture.it/))
+* (2024-oggi) [PADOCS](https://www.associazionecittadinanzadigitale.org/](https://www.padocs.it/)
+* (2023-oggi) [Associazione Cittadinanza Digitale]([https://www.cybersaiyan.it/](https://www.associazionecittadinanzadigitale.org/))
+* (2022-oggi) [Italia Institute for the future]([https://www.cybersaiyan.it/](https://www.instituteforthefuture.it/))
 * (2018-2020) [CyberSayan](https://www.cybersaiyan.it/)
 
 ## Conferenze seguite

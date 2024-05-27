@@ -11,6 +11,8 @@
 * (2024) [PAntascienza](https://themiscrime.com/it/edizioni-themis/fuori-collana/item/606-pantascienza)
 
 ## Docenze e Interventi come relatore
+* (2024/05) - ForumPA 2024 - [Tavolo RTD](https://www.forumpa.it/manifestazioni/forum-pa-2024/tavolo-di-lavoro-rtd-strumenti-operativi-a-supporto-della-transizione-digitale/)
+* (2024/05) - ForumPA 2024 - [AI, tra miti e realtà: un approccio tecnologico e non solo legale ed etico al tema](https://www.forumpa.it/manifestazioni/forum-pa-2024/ai-tra-miti-e-realta-un-approccio-tecnologico-e-non-solo-legale-ed-etico-al-tema/)
 * (2024/05) - Associazione Italiana Formatori, Premio Basile - [Laboratorio 3 - Tecnologie – Intelligenza artificiale e PA](https://associazioneitalianaformatori.it/th_event/xx-convegno-pubblica-amministrazione-e-xxii-premio-filippo-basile-2/)
 * (2024/04) - Formez - [Rivoluzione digitale: le nuove sfide per la PA tra PNRR, Piano Triennale, Cybersecurity e Intelligenza Artificiale](http://eventipa.formez.it/node/450691)
 * (2024/04) - IFEL - [Gli strumenti per l'attuazione del Piano triennale: Gestione associata ICT](https://www.fondazioneifel.it/catalogo-eventi/event/100-riforma-e-innovazione-enti-locali/3644-gli-strumenti-per-l-attuazione-del-piano-triennale-gestione-associata-ict)
@@ -163,6 +165,7 @@
 * (2009) One day Windows 7 presso Pipeline (1gg)
 
 ## Trasformazione Digitale
+* (2024) Era meglio la coda allo sportello - Marella - (1gg)
 * (2019) La cittadinanza digitale e l'attuazione dei diritti dei cittadini e delle imprese, Academy4PA CIT-Ancilab (4h)
 * (2019) Dal nuovo Piano Triennale per l'informatica 2019-2021 ai Piani di sviluppo ICT delle PAL, Academy4PA CIT-Ancilab(4h)
 * (2019) Lavorare in Digitale: lavorare con i "documenti informatici", Academy4PA CIT-Ancilab (4h)

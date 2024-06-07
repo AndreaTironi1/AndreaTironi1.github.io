@@ -56,15 +56,15 @@
 
 ## Articoli su testate digitali
 * (2024-oggi) ( < 5 articoli) [Lente Pubblica](https://www.lentepubblica.it/)
-* (2020-oggi) ( 25+ articoli)[Forumpa](https://www.forumpa.it/)
-* (2020-oggi) ( < 5 articoli)[Forumpa tramite Assinter](https://www.forumpa.it/) - [Assinter](https://www.assinteritalia.it/)
-* (2020-oggi) ( < 5 articoli)[BigData4Innovation](https://www.bigdata4innovation.it/) 
-* (2020-oggi) ( < 5 articoli)[AI4Business](https://www.ai4business.it/)  
-* (2020-oggi) ( < 5 articoli)[Retecomuni](https://www.retecomuni.it/) 
-* (2020-oggi) ( < 5 articoli)[Comuni Digitali](https://www.comunidigitali.it/) 
-* (2020-oggi) ( < 5 articoli)[Strategie Amministrative](https://www.strategieamministrative.it) 
-* (2019-oggi) (100+ articoli)[Agendadigitale](https://www.agendadigitale.eu/?s=andrea+tironi) 
-* (2019-oggi) ( < 5 articoli)[Cybersecurity360](https://www.cybersecurity360.it/?s=andrea+tironi) 
+* (2020-oggi) ( 25+ articoli) [Forumpa](https://www.forumpa.it/)
+* (2020-oggi) ( < 5 articoli) [Forumpa tramite Assinter](https://www.forumpa.it/) - [Assinter](https://www.assinteritalia.it/)
+* (2020-oggi) ( < 5 articoli) [BigData4Innovation](https://www.bigdata4innovation.it/) 
+* (2020-oggi) ( < 5 articoli) [AI4Business](https://www.ai4business.it/)  
+* (2020-oggi) ( < 5 articoli) [Retecomuni](https://www.retecomuni.it/) 
+* (2020-oggi) ( < 5 articoli) [Comuni Digitali](https://www.comunidigitali.it/) 
+* (2020-oggi) ( < 5 articoli) [Strategie Amministrative](https://www.strategieamministrative.it) 
+* (2019-oggi) (100+ articoli) [Agendadigitale](https://www.agendadigitale.eu/?s=andrea+tironi) 
+* (2019-oggi) ( < 5 articoli) [Cybersecurity360](https://www.cybersecurity360.it/?s=andrea+tironi) 
 
 ## Articoli su riviste
 * (2020) [Il Project Manager - n° 43 anno 2020](https://github.com/AndreaTironi1/AndreaTironi1.github.io/blob/master/pubblicazioni/ProjectManagement_EDGE_recensione_(Minelle-Tironi).pdf)

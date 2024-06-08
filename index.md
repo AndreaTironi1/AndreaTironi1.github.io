@@ -54,7 +54,7 @@
 * (2020) [Analisi di una rete logistica per lo scambio interbibliotecario- Alberto Bertoncini - UNIMI - Advisor Alberto Ceselli - Co-Advisor Andrea Tironi](https://github.com/AndreaTironi1/AndreaTironi1.github.io/blob/master/tesi/2020_Bertoncini_Alberto_Tesi.pdf)
 
 
-## Articoli su testate digitali
+## Articoli su testate digitali e blog
 * (2024-oggi) ( < 5 articoli) [Lente Pubblica](https://www.lentepubblica.it/)
 * (2020-oggi) ( 25+ articoli) [Forumpa](https://www.forumpa.it/)
 * (2020-oggi) ( < 5 articoli) [Forumpa tramite Assinter](https://www.forumpa.it/) - [Assinter](https://www.assinteritalia.it/)
@@ -64,7 +64,8 @@
 * (2020-oggi) ( < 5 articoli) [Comuni Digitali](https://www.comunidigitali.it/) 
 * (2020-oggi) ( < 5 articoli) [Strategie Amministrative](https://www.strategieamministrative.it) 
 * (2019-oggi) (100+ articoli) [Agendadigitale](https://www.agendadigitale.eu/?s=andrea+tironi) 
-* (2019-oggi) ( < 5 articoli) [Cybersecurity360](https://www.cybersecurity360.it/?s=andrea+tironi) 
+* (2019-oggi) ( < 5 articoli) [Cybersecurity360](https://www.cybersecurity360.it/?s=andrea+tironi)
+* (2019-oggi) (50+ post) [Medium](https://medium.com/@a.tironi)
 
 ## Articoli su riviste
 * (2020) [Il Project Manager - n° 43 anno 2020](https://github.com/AndreaTironi1/AndreaTironi1.github.io/blob/master/pubblicazioni/ProjectManagement_EDGE_recensione_(Minelle-Tironi).pdf)

@@ -115,6 +115,7 @@
 * (2015) Strumenti Operativi per Team Leader (Apindustria Cremona) (1gg)
 
 ###  Tecnica
+* (2024) Ai Prompt Engineering (5 ore), (Data Masters), () 
 * (2024) Artificial Intelligence Week Course (6 ore), (ProfessionAI) (https://mycourse.app/o2dRr7WYdpoKej5E9  - 66574f1ec1990cccbe020b22)
 * (2024) Image Captioning Models - (Google) (< 1 ora), Introduction to Generative AI Studio - (Google) (< 1 ora)
 * (2024) Duet AI in Gmail - (Google) (< 1 ora), Duet AI in Google Workspace - (Google) (< 1 ora)

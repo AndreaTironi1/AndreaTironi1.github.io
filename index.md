@@ -4,7 +4,7 @@
 
 * [Linkedin](https://www.linkedin.com/in/andrea-tironi-381b6a52/)
 * email: nome.cognome@gmail.com
-* cell: da chiederec
+* cell: da chiedere
 
 ## Libri
 

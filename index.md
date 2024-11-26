@@ -11,6 +11,8 @@
 * (2024) [PAntascienza](https://themiscrime.com/it/edizioni-themis/fuori-collana/item/606-pantascienza)
 
 ## Docenze e Interventi come relatore
+
+* (2024/11) - Formez- [Costruire il Futuro della PA con l’Intelligenza Artificiale: quadro etico-normativo, sperimentazione tecnologica e opportunità di innovazione]([https://fpadigitalschool.digital360.it/course/index.php?categoryid=419](http://eventipa.formez.it/node/455479))
 * (2024/09) - ForumPA 2024 - [Campus Intelligenza Artificiale](https://fpadigitalschool.digital360.it/course/index.php?categoryid=419)
 * (2024/05) - ForumPA 2024 - [PA Cloud first: state of play. L’avanzamento delle strategie nazionali, tra progetti in corso e prospettive future](https://www.forumpa.it/manifestazioni/forum-pa-2024/pa-cloud-first-state-of-play-lavanzamento-delle-strategie-nazionali-tra-progetti-in-corso-e-prospettive-future/)
 * (2024/05) - ForumPA 2024 - [AI, tra miti e realtà: un approccio tecnologico e non solo legale ed etico al tema](https://www.forumpa.it/manifestazioni/forum-pa-2024/ai-tra-miti-e-realta-un-approccio-tecnologico-e-non-solo-legale-ed-etico-al-tema/)
@@ -85,6 +87,7 @@
 ## Formazione 
 
 ### Personale
+* (2024) Corso aziendale Parità di genere (inaula.corporatelearning.it, 30 minuti)
 * (2022) Mindfullness (Trentino School of management) 
 * (2022) Future Literacy & Megatrend (SkillDoers)
 * (2016) Da zero a 10 Ekis (autofinanziato) (2gg)

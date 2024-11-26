@@ -12,7 +12,7 @@
 
 ## Docenze e Interventi come relatore
 
-* (2024/11) - Formez- [Costruire il Futuro della PA con l’Intelligenza Artificiale: quadro etico-normativo, sperimentazione tecnologica e opportunità di innovazione]([https://fpadigitalschool.digital360.it/course/index.php?categoryid=419](http://eventipa.formez.it/node/455479))
+* (2024/11) - Formez- [Costruire il Futuro della PA con l’Intelligenza Artificiale: quadro etico-normativo, sperimentazione tecnologica e opportunità di innovazione](https://fpadigitalschool.digital360.it/course/index.php?categoryid=419](http://eventipa.formez.it/node/455479)
 * (2024/09) - ForumPA 2024 - [Campus Intelligenza Artificiale](https://fpadigitalschool.digital360.it/course/index.php?categoryid=419)
 * (2024/05) - ForumPA 2024 - [PA Cloud first: state of play. L’avanzamento delle strategie nazionali, tra progetti in corso e prospettive future](https://www.forumpa.it/manifestazioni/forum-pa-2024/pa-cloud-first-state-of-play-lavanzamento-delle-strategie-nazionali-tra-progetti-in-corso-e-prospettive-future/)
 * (2024/05) - ForumPA 2024 - [AI, tra miti e realtà: un approccio tecnologico e non solo legale ed etico al tema](https://www.forumpa.it/manifestazioni/forum-pa-2024/ai-tra-miti-e-realta-un-approccio-tecnologico-e-non-solo-legale-ed-etico-al-tema/)

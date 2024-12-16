@@ -68,7 +68,7 @@
 * (2020-oggi) ( < 5 articoli) [Retecomuni](https://www.retecomuni.it/) 
 * (2020-oggi) ( < 5 articoli) [Comuni Digitali](https://www.comunidigitali.it/) 
 * (2020-oggi) ( < 5 articoli) [Strategie Amministrative](https://www.strategieamministrative.it) 
-* (2019-oggi) (100+ articoli) [Agendadigitale](https://www.agendadigitale.eu/?s=andrea+tironi) 
+* (2019-oggi) (150+ articoli) [Agendadigitale](https://www.agendadigitale.eu/?s=andrea+tironi) 
 * (2019-oggi) ( < 5 articoli) [Cybersecurity360](https://www.cybersecurity360.it/?s=andrea+tironi)
 * (2019-oggi) (50+ post) [Medium](https://medium.com/@a.tironi)
 

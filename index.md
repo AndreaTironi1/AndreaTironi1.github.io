@@ -121,6 +121,7 @@
 * (2015) Strumenti Operativi per Team Leader (Apindustria Cremona) (1gg)
 
 ###  Tecnica
+* (2025) Ai per Tutti (6 ore), (Data Masters)
 * (2024) Archivio Comunale, digitalizzare: cosa come e perchè? (2 ore), (Soprintendenza Archivistica e bibliografica della Lombardia)
 * (2024) Ai Prompt Engineering (5 ore), (Data Masters), [certificato](https://github.com/AndreaTironi1/AndreaTironi1.github.io/blob/master/formazione/AiPromptEngineering.png) 
 * (2024) Artificial Intelligence Week Course (6 ore), (ProfessionAI), [certificato](https://mycourse.app/o2dRr7WYdpoKej5E9)

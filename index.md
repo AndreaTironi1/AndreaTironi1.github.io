@@ -12,7 +12,9 @@
 
 ## Docenze e Interventi come relatore
 
-* (2024/12) - Comune di Rozzano - Formazione "L'Intelligenza Artificiale e L'Ente locale: un binomio possibile?"
+* (2025/02) - Formez - (completare)
+* (2025/01) - Comune di Basiglio - Formazione "L'Intelligenza Artificiale e L'Ente locale: un binomio possibile?" - 4h
+* (2024/12) - Comune di Rozzano - Formazione "L'Intelligenza Artificiale e L'Ente locale: un binomio possibile?" - 4h
 * (2024/12) - Associazione Segretari Vighenzi - Intelligenza Artificiale nella PA:  Dall’Hype all’utilità, cosa possiamo fare davvero?
 * (2024/11) - Formez- [Costruire il Futuro della PA con l’Intelligenza Artificiale: quadro etico-normativo, sperimentazione tecnologica e opportunità di innovazione](http://eventipa.formez.it/node/455479)
 * (2024/09) - ForumPA 2024 - [Campus Intelligenza Artificiale](https://fpadigitalschool.digital360.it/course/index.php?categoryid=419)

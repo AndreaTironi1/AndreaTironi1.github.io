@@ -12,7 +12,7 @@
 
 ## Docenze e Interventi come relatore
 
-* (2025/02) - Ifel - Aggiornamento Piano Triennale 2024-2026, agg 2025 - 1h
+* (2025/02) - IFEL - Aggiornamento Piano Triennale 2024-2026, agg 2025 - 1h
 * (2025/02) - Formez - [https://www.formez.it/notizie/okr-trasformazione-digitale-nella-pa](OKR per la trasformazione digitale nella PA)
 * (2025/01) - Comune di Basiglio - Formazione "L'Intelligenza Artificiale e L'Ente locale: un binomio possibile?" - 4h
 * (2024/12) - Comune di Rozzano - Formazione "L'Intelligenza Artificiale e L'Ente locale: un binomio possibile?" - 4h

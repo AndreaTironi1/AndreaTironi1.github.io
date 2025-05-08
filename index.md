@@ -12,12 +12,16 @@
 
 ## Docenze e Interventi come relatore
 
+* (2025/05) - UPEL - AI LAB - 2h
+* (2025/04) - Comune di Grassobbio - Formazione "L'Intelligenza Artificiale e L'Ente locale: un binomio possibile?" - 4h
+* (2024/04) - Comune di Palazzolo sull'Oglio - Formazione "L'Intelligenza Artificiale e L'Ente locale: un binomio possibile?" - 4h
 * (2025/02) - IFEL - Aggiornamento Piano Triennale 2024-2026, agg 2025 - 1h
 * (2025/02) - Formez - [https://www.formez.it/notizie/okr-trasformazione-digitale-nella-pa](OKR per la trasformazione digitale nella PA)
 * (2025/01) - Comune di Basiglio - Formazione "L'Intelligenza Artificiale e L'Ente locale: un binomio possibile?" - 4h
 * (2024/12) - Comune di Rozzano - Formazione "L'Intelligenza Artificiale e L'Ente locale: un binomio possibile?" - 4h
 * (2024/12) - Associazione Segretari Vighenzi - Intelligenza Artificiale nella PA:  Dall’Hype all’utilità, cosa possiamo fare davvero?
-* (2024/11) - Formez- [Costruire il Futuro della PA con l’Intelligenza Artificiale: quadro etico-normativo, sperimentazione tecnologica e opportunità di innovazione](http://eventipa.formez.it/node/455479)
+* (2024/11) - UPEL - Convegno AI - Comune di Cernusco sul Naviglio - 2h
+* (2024/11) - Formez - [Costruire il Futuro della PA con l’Intelligenza Artificiale: quadro etico-normativo, sperimentazione tecnologica e opportunità di innovazione](http://eventipa.formez.it/node/455479)
 * (2024/09) - ForumPA 2024 - [Campus Intelligenza Artificiale](https://fpadigitalschool.digital360.it/course/index.php?categoryid=419)
 * (2024/05) - ForumPA 2024 - [PA Cloud first: state of play. L’avanzamento delle strategie nazionali, tra progetti in corso e prospettive future](https://www.forumpa.it/manifestazioni/forum-pa-2024/pa-cloud-first-state-of-play-lavanzamento-delle-strategie-nazionali-tra-progetti-in-corso-e-prospettive-future/)
 * (2024/05) - ForumPA 2024 - [AI, tra miti e realtà: un approccio tecnologico e non solo legale ed etico al tema](https://www.forumpa.it/manifestazioni/forum-pa-2024/ai-tra-miti-e-realta-un-approccio-tecnologico-e-non-solo-legale-ed-etico-al-tema/)

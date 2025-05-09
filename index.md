@@ -12,6 +12,7 @@
 
 ## Docenze e Interventi come relatore
 
+* (2025/05) - POLIMI - GSOM - DIPA 2024| Collaborazione cross Ente come leva di scale-up dell’innovazione - 1h 
 * (2025/05) - UPEL - AI LAB - 2h
 * (2025/04) - Comune di Grassobbio - Formazione "L'Intelligenza Artificiale e L'Ente locale: un binomio possibile?" - 4h
 * (2024/04) - Comune di Palazzolo sull'Oglio - Formazione "L'Intelligenza Artificiale e L'Ente locale: un binomio possibile?" - 4h

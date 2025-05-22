@@ -19,11 +19,11 @@
 * (2025/05) - UPEL - AI LAB - 2h
 * (2025/04) - Comune di Grassobbio - Formazione "L'Intelligenza Artificiale e L'Ente locale: un binomio possibile?" - 4h
 * (2024/04) - Comune di Palazzolo sull'Oglio - Formazione "L'Intelligenza Artificiale e L'Ente locale: un binomio possibile?" - 4h
-* (2025/02) - IFEL - Aggiornamento Piano Triennale 2024-2026, agg 2025 - 1h
+* (2025/02) - IFEL - (Aggiornamento Piano Triennale 2024-2026, agg 2025)[https://elearning.fondazioneifel.it/enrol/index.php?id=448] - 1,5h
 * (2025/02) - Formez - [OKR per la trasformazione digitale nella PA](https://www.formez.it/notizie/okr-trasformazione-digitale-nella-pa)
 * (2025/01) - Comune di Basiglio - Formazione "L'Intelligenza Artificiale e L'Ente locale: un binomio possibile?" - 4h
 * (2024/12) - Comune di Rozzano - Formazione "L'Intelligenza Artificiale e L'Ente locale: un binomio possibile?" - 4h
-* (2024/12) - Associazione Segretari Vighenzi - Intelligenza Artificiale nella PA:  Dall’Hype all’utilità, cosa possiamo fare davvero?
+* (2024/12) - Associazione Segretari Vighenzi - Intelligenza Artificiale nella PA:  Dall’Hype all’utilità, cosa possiamo fare davvero? - 1h
 * (2024/11) - UPEL - Convegno AI - Comune di Cernusco sul Naviglio - 2h
 * (2024/11) - Formez - [Costruire il Futuro della PA con l’Intelligenza Artificiale: quadro etico-normativo, sperimentazione tecnologica e opportunità di innovazione](http://eventipa.formez.it/node/455479)
 * (2024/09) - ForumPA 2024 - [Campus Intelligenza Artificiale](https://fpadigitalschool.digital360.it/course/index.php?categoryid=419)

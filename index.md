@@ -19,7 +19,7 @@
 * (2025/05) - UPEL - AI LAB - 2h
 * (2025/04) - Comune di Grassobbio - Formazione "L'Intelligenza Artificiale e L'Ente locale: un binomio possibile?" - 4h
 * (2024/04) - Comune di Palazzolo sull'Oglio - Formazione "L'Intelligenza Artificiale e L'Ente locale: un binomio possibile?" - 4h
-* (2025/02) - IFEL - (Aggiornamento Piano Triennale 2024-2026, agg 2025)[https://elearning.fondazioneifel.it/enrol/index.php?id=448] - 1,5h
+* (2025/02) - IFEL - [Aggiornamento Piano Triennale 2024-2026, agg 2025](https://elearning.fondazioneifel.it/enrol/index.php?id=448) - 1,5h
 * (2025/02) - Formez - [OKR per la trasformazione digitale nella PA](https://www.formez.it/notizie/okr-trasformazione-digitale-nella-pa)
 * (2025/01) - Comune di Basiglio - Formazione "L'Intelligenza Artificiale e L'Ente locale: un binomio possibile?" - 4h
 * (2024/12) - Comune di Rozzano - Formazione "L'Intelligenza Artificiale e L'Ente locale: un binomio possibile?" - 4h

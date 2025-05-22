@@ -12,10 +12,10 @@
 
 ## Docenze e Interventi come relatore
 
-* (2025/05) - ForumPA 2025 - [Intervista su risultati tavolo CTO e DATA MANAGER](https://forumpa2025.fpaeventi.it/it-IT/sessions/286) 
-* (2025/05) - ForumPA 2025 - [La PA come sistema vivente aumentato: persone, dati e processi al centro del reengineering di un'organizzazione comunale](https://forumpa2025.fpaeventi.it/it-IT/sessions/31)
-* (2024/05) - ForumPA 2025 - [Facilitatore al tavolo 3 del percorso: Tavolo CTO e DATA MANAGER](https://forumpa2025.fpaeventi.it/it-IT/sessions/57)
-* (2025/05) - POLIMI - GSOM - DIPA 2024| Collaborazione cross Ente come leva di scale-up dell’innovazione - 1h 
+* (2025/05) - ForumPA 2025 - [Intervista su risultati tavolo CTO e DATA MANAGER](https://forumpa2025.fpaeventi.it/it-IT/sessions/286) - 0.5h
+* (2025/05) - ForumPA 2025 - [La PA come sistema vivente aumentato: persone, dati e processi al centro del reengineering di un'organizzazione comunale](https://forumpa2025.fpaeventi.it/it-IT/sessions/31) - 1h
+* (2024/05) - ForumPA 2025 - [Facilitatore al tavolo 3 del percorso: Tavolo CTO e DATA MANAGER](https://forumpa2025.fpaeventi.it/it-IT/sessions/57) - 2h
+* (2025/05) - POLIMI - GSOM - DIPA 2024 | Collaborazione cross Ente come leva di scale-up dell’innovazione - 1h 
 * (2025/05) - UPEL - AI LAB - 2h
 * (2025/04) - Comune di Grassobbio - Formazione "L'Intelligenza Artificiale e L'Ente locale: un binomio possibile?" - 4h
 * (2024/04) - Comune di Palazzolo sull'Oglio - Formazione "L'Intelligenza Artificiale e L'Ente locale: un binomio possibile?" - 4h

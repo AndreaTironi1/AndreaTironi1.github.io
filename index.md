@@ -12,6 +12,7 @@
 
 ## Docenze e Interventi come relatore
 
+* (2025/05) - Università Cattolica - Master in Management e Innovazione delle Pubbliche Amministrazioni (MIPA) e il Master in Management e Innovazione delle Pubbliche Amministrazioni Centrali (MIPAC) - 1h
 * (2025/05) - ForumPA 2025 - [Intervista su risultati tavolo CTO e DATA MANAGER](https://forumpa2025.fpaeventi.it/it-IT/sessions/286) - 0.5h
 * (2025/05) - ForumPA 2025 - [La PA come sistema vivente aumentato: persone, dati e processi al centro del reengineering di un'organizzazione comunale](https://forumpa2025.fpaeventi.it/it-IT/sessions/31) - 1h
 * (2024/05) - ForumPA 2025 - [Facilitatore al tavolo 3 del percorso: Tavolo CTO e DATA MANAGER](https://forumpa2025.fpaeventi.it/it-IT/sessions/57) - 2h

@@ -12,6 +12,8 @@
 
 ## Docenze e Interventi come relatore
 
+* (2025/09) - IFEL - Bootcamp AI - 3gg
+* (2025/09) - Dasein - Formazione AI - 2 x 3h
 * (2025/07) - Città Metropolitana di Genova - 2h
 * (2025/07) - UPEL - AI LAB 2 - 2h
 * (2025/06) - Formez - [PAOK!](https://eventipa.formez.it/eventi/addefce9-a318-4e53-abaa-9fd8e9326e78) - 8.5h

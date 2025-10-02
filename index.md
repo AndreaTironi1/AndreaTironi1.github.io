@@ -117,6 +117,8 @@
 * (2025) Parità di Genere - Molesti
 * (2025) Parità di Genere - Stereotipi
 * (2024) Parità di Genere - Linguaggio Inclusivo
+* (2024) Whistleblowing
+* (2024) Anticorruzione
 * (2022) Apolitica.co & AWS - Leading transformation in Public Sector (3d)
 * (2022) Apolitical.co - Using BehaviouralProblem framing to find the right solution (8h)
 * (2022) X-Road Fundamentals - X-Road.global

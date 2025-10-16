@@ -6,9 +6,10 @@
 * email: nome.cognome@gmail.com
 * cell: da chiedere
 
-## Libri
+## Libri e Pubblicazioni
 
-* (2024) [PAntascienza](https://themiscrime.com/it/edizioni-themis/fuori-collana/item/606-pantascienza)
+* (2025) [Impact Report - Intelligenza Artificiale negli enti locali](https://libri.unimi.it/index.php/meiec/catalog/view/265/1088/2524) - Contributo, scrivendo per ConsorzioIT
+* (2024) [PAntascienza](https://themiscrime.com/it/edizioni-themis/fuori-collana/item/606-pantascienza) - Autore e aiuto Curatore 
 
 ## Docenze e Interventi come relatore
 
@@ -77,16 +78,17 @@
 
 
 ## Articoli su testate digitali e blog
-* (2024-oggi) ( < 5 articoli) [Lente Pubblica](https://www.lentepubblica.it/)
+* (2025-oggi) ( <5 articoli) [Kopernicana](https://future4work.kopernicana.com/articolo/rendanheyi-okr-e-pa)
+* (2024-oggi) ( <5 articoli) [Lente Pubblica](https://www.lentepubblica.it/)
 * (2020-oggi) ( 25+ articoli) [Forumpa](https://www.forumpa.it/)
-* (2020-oggi) ( < 5 articoli) [Forumpa tramite Assinter](https://www.forumpa.it/) - [Assinter](https://www.assinteritalia.it/)
-* (2020-oggi) ( < 5 articoli) [BigData4Innovation](https://www.bigdata4innovation.it/) 
-* (2020-oggi) ( < 5 articoli) [AI4Business](https://www.ai4business.it/)  
-* (2020-oggi) ( < 5 articoli) [Retecomuni](https://www.retecomuni.it/) 
-* (2020-oggi) ( < 5 articoli) [Comuni Digitali](https://www.comunidigitali.it/) 
-* (2020-oggi) ( < 5 articoli) [Strategie Amministrative](https://www.strategieamministrative.it) 
-* (2019-oggi) (150+ articoli) [Agendadigitale](https://www.agendadigitale.eu/?s=andrea+tironi) 
-* (2019-oggi) ( < 5 articoli) [Cybersecurity360](https://www.cybersecurity360.it/?s=andrea+tironi)
+* (2020-oggi) ( <5 articoli) [Forumpa tramite Assinter](https://www.forumpa.it/) - [Assinter](https://www.assinteritalia.it/)
+* (2020-oggi) ( <5 articoli) [BigData4Innovation](https://www.bigdata4innovation.it/) 
+* (2020-oggi) ( <5 articoli) [AI4Business](https://www.ai4business.it/)  
+* (2020-oggi) ( <5 articoli) [Retecomuni](https://www.retecomuni.it/) 
+* (2020-oggi) ( <5 articoli) [Comuni Digitali](https://www.comunidigitali.it/) 
+* (2020-oggi) ( <5 articoli) [Strategie Amministrative](https://www.strategieamministrative.it) 
+* (2019-oggi) (200+ articoli) [Agendadigitale](https://www.agendadigitale.eu/?s=andrea+tironi) 
+* (2019-oggi) ( <5 articoli) [Cybersecurity360](https://www.cybersecurity360.it/?s=andrea+tironi)
 * (2019-oggi) (50+ post) [Medium](https://medium.com/@a.tironi)
 
 ## Articoli su riviste

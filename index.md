@@ -100,6 +100,10 @@
 * (2019) Inchiesta report sulla digitalizzazione nella Pubblica Amministrazione: [Basterebbe un click](https://www.raiplay.it/video/2019/12/-basterebbe-un-click---02122019-2c43e678-5649-4588-aa11-2d92efada242.html)
 * (2019) [Promo dell'inchiesta sulla digitalizzazione nella Pubblica Amministrazione](https://www.facebook.com/ReportRai3/videos/2748293455259595/)
 
+## Apparizioni in radio
+
+* (2025) [https://www.radioglox.it/](Parola d'ordine)
+
 ## Siti realizzati in collaborazione
 
 * (2020) [www.codiv19-italia.eu](www.codiv19-italia.eu)

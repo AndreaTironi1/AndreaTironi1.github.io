@@ -102,7 +102,7 @@
 
 ## Apparizioni in radio
 
-* (2025) [Parola d'Ordine - Radio Glox]([Parola d'ordine](https://open.spotify.com/episode/6nvBwEla5fNXqplV4wbAp3?si=5Xv19A60Qaax-KbU-VUyDg&nd=1&dlsi=6cc00e0b6dd747a5]))
+* (2025) [Parola d'Ordine - Radio Glox](https://open.spotify.com/episode/6nvBwEla5fNXqplV4wbAp3?si=5Xv19A60Qaax-KbU-VUyDg&nd=1&dlsi=6cc00e0b6dd747a5]))
 
 ## Siti realizzati in collaborazione
 

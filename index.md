@@ -8,11 +8,14 @@
 
 ## Libri e Pubblicazioni
 
+* (2025) [Pantascienza al potere](https://edizionithemis.it/catalogo/fuori-collana/pantascienza-al-potere) - Autore e ingaggiatore di altri autori
 * (2025) [Impact Report - Intelligenza Artificiale negli enti locali](https://libri.unimi.it/index.php/meiec/catalog/view/265/1088/2524) - Contributo, scrivendo per ConsorzioIT
 * (2024) [PAntascienza](https://themiscrime.com/it/edizioni-themis/fuori-collana/item/606-pantascienza) - Autore e aiuto Curatore 
 
 ## Docenze e Interventi come relatore
 
+* (2025/11) - Fedir - Laboratorio AI - 2h
+* (2025/10) - UPEL - AI LAB 3- 2h
 * (2025/09) - IFEL - Bootcamp AI - 3gg
 * (2025/09) - Dasein - Formazione AI - 2 x 3h
 * (2025/07) - Città Metropolitana di Genova - 2h
@@ -103,6 +106,10 @@
 ## Apparizioni in radio
 
 * (2025) [Parola d'Ordine - Radio Glox](https://open.spotify.com/episode/6nvBwEla5fNXqplV4wbAp3?si=5Xv19A60Qaax-KbU-VUyDg&nd=1&dlsi=6cc00e0b6dd747a5]))
+
+## Apparizioni in newsletter
+
+* (2025) La cultura del dato #191 - Di Stefano Gatti
 
 ## Siti realizzati in collaborazione
 

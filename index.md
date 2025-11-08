@@ -17,7 +17,7 @@
 * (2025/11) - Fedir - Laboratorio AI - 2h
 * (2025/10) - [L’adozione e l’implementazione di soluzioni basate sull’Intelligenza Artificiale nel settore pubblico](https://paradigma.it/iniziativa/ladozione-e-limplementazione-di-soluzioni-basate-sullintelligenza-artificiale-nel-settore-pubblico-2/#presentazionedf7c-7d3b) - Paradigma - 2h
 * (2025/10) - [Quanto l'intelligenza artificiale può cambiare il lavoro di un comune](https://www.associazionecomunibresciani.eu/prodotto/31-ottobre-2025-quanto-lintelligenza-artificiale-puo-cambiare-il-lavoro-di-un-comune/) - Associazione Comuni Bresciani - 2h
-* (2025/10) - UPEL - AI LAB 3- 2h
+* (2025/10) - UPEL - AI LAB 3 - 2h
 * (2025/09) - IFEL - Bootcamp AI - 3gg
 * (2025/09) - Dasein - Formazione AI - 2 x 3h
 * (2025/07) - Città Metropolitana di Genova - 2h

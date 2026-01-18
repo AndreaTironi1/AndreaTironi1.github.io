@@ -79,8 +79,8 @@
 
 ## Co-Advisor Tesi
 
-* (2019) [Data analytics for vehicular traffic networks - Matteo Gandossi - UNIMI - Advisor Alberto Ceselli - Co-Advisor Andrea Tironi](https://github.com/AndreaTironi1/AndreaTironi1.github.io/blob/master/tesi/2019_Data%20analytics%20for%20vehicular%20traffic%20networks_Coadvisor.pdf) 
 * (2020) [Analisi di una rete logistica per lo scambio interbibliotecario- Alberto Bertoncini - UNIMI - Advisor Alberto Ceselli - Co-Advisor Andrea Tironi](https://github.com/AndreaTironi1/AndreaTironi1.github.io/blob/master/tesi/2020_Bertoncini_Alberto_Tesi.pdf)
+* (2019) [Data analytics for vehicular traffic networks - Matteo Gandossi - UNIMI - Advisor Alberto Ceselli - Co-Advisor Andrea Tironi](https://github.com/AndreaTironi1/AndreaTironi1.github.io/blob/master/tesi/2019_Data%20analytics%20for%20vehicular%20traffic%20networks_Coadvisor.pdf) 
 
 
 ## Articoli su testate digitali e blog
@@ -226,7 +226,7 @@
 ## Volontariato Digitale
 
 * (2017-oggi) Libero cittadino che risponde ai quesiti su: [forum.italia.it](forum.italia.it)
-* (2004-2018)Comune di Orzinuovi
+* (2004-2018) Comune di Orzinuovi
 
 ## Associazioni
 

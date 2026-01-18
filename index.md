@@ -14,6 +14,7 @@
 
 ## Docenze e Interventi come relatore
 
+* (2025/12) - LineAtenei - Laboratorio AI - 16h
 * (2025/11) - Fedir - Laboratorio AI - 2h
 * (2025/10) - [L’adozione e l’implementazione di soluzioni basate sull’Intelligenza Artificiale nel settore pubblico](https://paradigma.it/iniziativa/ladozione-e-limplementazione-di-soluzioni-basate-sullintelligenza-artificiale-nel-settore-pubblico-2/#presentazionedf7c-7d3b) - Paradigma - 2h
 * (2025/10) - [Quanto l'intelligenza artificiale può cambiare il lavoro di un comune](https://www.associazionecomunibresciani.eu/prodotto/31-ottobre-2025-quanto-lintelligenza-artificiale-puo-cambiare-il-lavoro-di-un-comune/) - Associazione Comuni Bresciani - 2h
@@ -107,7 +108,8 @@
 
 ## Apparizioni in radio
 
-* (2025) [Parola d'Ordine - Radio Glox](https://open.spotify.com/episode/6nvBwEla5fNXqplV4wbAp3?si=5Xv19A60Qaax-KbU-VUyDg&nd=1&dlsi=6cc00e0b6dd747a5]))
+* (2026) [Parola d'Ordine - Radio Glox - L'inposi digitale e l'algoritmo magico](https://open.spotify.com/episode/4hq39UDhvcq2UZYpm08ksa?si=ZKKpQJltT-eG2beiJfG-dA&context=spotify%3Ashow%3A7pJ2apN4lyHvXCLVL3R1SG]))
+* (2025) [Parola d'Ordine - Radio Glox - Vero o falso, l'intelligenza artificiale contro l'imperfezione umana](https://open.spotify.com/episode/6nvBwEla5fNXqplV4wbAp3?si=5Xv19A60Qaax-KbU-VUyDg&nd=1&dlsi=6cc00e0b6dd747a5]))
 
 ## Apparizioni in newsletter
 
